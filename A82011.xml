@@ -1,0 +1,689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The modest vindication of John Day of London, merchant: unto an invective, false, and scandalous remonstrance, presented the 2. of July, 1646. Unto the Right Honourable the Committee of Lords and Commons for the Admiralty and cinque-ports. / By John Day.</title>
+            <author>Day, John, of London, merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82011</idno>
+            <idno type="STC">Wing D468A</idno>
+            <idno type="STC">Thomason E510_10</idno>
+            <idno type="STC">ESTC R205614</idno>
+            <idno type="EEBO-CITATION">99864942</idno>
+            <idno type="PROQUEST">99864942</idno>
+            <idno type="VID">117175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117175)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E510[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The modest vindication of John Day of London, merchant: unto an invective, false, and scandalous remonstrance, presented the 2. of July, 1646. Unto the Right Honourable the Committee of Lords and Commons for the Admiralty and cinque-ports. / By John Day.</title>
+                  <author>Day, John, of London, merchant.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeere, M DC XLVI. [1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of many letters.</note>
+                  <note>Identified as Wing D465 on reel 80, of the UMI microfilm set, Thomason Tracts.</note>
+                  <note>Annotation on Thomason copy: "July 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Day, John, --  of London, merchant.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117175:1" rendition="simple:additions"/>
+            <p>THE MODEST VINDICATION OF <hi>JOHN DAY</hi> of LONDON, MERCHANT: Vnto an invective, falſe, and ſcandalous Remonſtrance, preſented the 2. of July, 1646. Unto the Right Honourable the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for the Admiralty and Cinque-Ports.</p>
+            <p>
+               <hi>By</hi> JOHN DAY.</p>
+            <figure>
+               <figDesc>peacock</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeere, <hi>MDCXLVI.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:117175:2"/>
+            <pb n="1" facs="tcp:117175:2"/>
+            <head>The modeſt VINDICATION of <hi>JOHN DAY</hi> of LONDON, <hi>Merchant.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately ſeene a Remonſtrance pre<g ref="char:EOLhyphen"/>ſented by <hi>John Peacock,</hi> at preſent living in S. <hi>Nicholas</hi> lane, unto the Right Hono<g ref="char:EOLhyphen"/>rable the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons for the Admiralty and Cinque Ports, having got a Copy thereof, as likewiſe of his Atteſtations; which ſeriouſly peruſing, I conceived it ſo falſe and ſcandalous, that I fully reſolved to put forth this my Vindication in print, with a true and full narration of all the paſſages of my negotiation in his and other mens buſineſſe, both here and beyond the ſeas, as like<g ref="char:EOLhyphen"/>wiſe his unjuſt proceedings againſt me ſince my returne, which I will leave to the judgement of the Reader. Firſt, I will ſet downe the Remonſtrance truly copyed, delivered <hi>July</hi> 2. 1646.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable, the Committee of Lords and Commons for the Admiralty and Cinque-Ports. The humble Remonſtrance of <hi>John Peacock</hi> of London, Merchant, on the behalfe of himſelfe and divers other Merchants trading to <hi>Flanders.</hi>
+                        </head>
+                        <p>SHEWETH,</p>
+                        <p>THat your Petitioners having a Ship called the <hi>Barak</hi> and <hi>De<g ref="char:EOLhyphen"/>borah,</hi> bound from Amſterdam to London, laden with Mer<g ref="char:EOLhyphen"/>chants good to the value of 10000. l. was in <hi>Iune</hi> 1645. by one
+<pb n="2" facs="tcp:117175:3"/> 
+                           <hi>Fowder,</hi> Captaine of a Kings man of Waare, taken and carryed in<g ref="char:EOLhyphen"/>to Oſtend; whereupon your Petitioners gave Procuration to <hi>John Day</hi> Broker to repaire to Flanders, and there proſecute Re<g ref="char:EOLhyphen"/>ſtauration of the ſaid Ship and goods, and to that end obtained a Letter from Maſter <hi>Greene</hi> to Doctor <hi>Walker,</hi> then Agent extra<g ref="char:EOLhyphen"/>ordinary for the Parliament in Flanders, unto whom he was to apply himſelfe, and receive and follow his advice. But the ſaid <hi>Day</hi> contrary to your Petitioners Order repaired not to Doctor <hi>Walker</hi> till two moneths after his arrivall in <hi>Flanders,</hi> but brake open the ſaid Letter, and made uſe thereof to his owne ends, to the great prejudice of your Petitioners, who entruſted him in that employment.</p>
+                        <p>That the ſaid <hi>Day</hi> for the ſpace of three moneths or thereabouts continued in a debauch'd and impious manner of drinking &amp; ryo<g ref="char:EOLhyphen"/>ting with the ſaid <hi>Fowder</hi> and other Pyraticall Commanders and Seamen then at Oſtend, publiquely calumniating the Parliamant with vile and reproachfull language, as by the Atteſtations an<g ref="char:EOLhyphen"/>nexed appeareth; and in particular, ſome worthy Members of the Honourable Houſe of Commons, as will be proved.</p>
+                        <p>That the ſaid <hi>Day</hi> contrary to the truſt repoſed in him, dealt moſt injuriouſly with your Petitioners, as appeareth by two At<g ref="char:EOLhyphen"/>teſtations hereunto annexed; And inſtead of rendring of a juſt accompt of his proceedings as was expected from him at his comming into <hi>England,</hi> preferred a vexatious Bill in Chancery againſt your Petitioner <hi>Peacock</hi> and the Maſter of the Ship, where it ſtill remaines.</p>
+                        <p>That the ſaid <hi>Day</hi> by his keeping company with the Malignant party, and deceitfully complying with them contrary to the truſt repoſed in him, and by his foule carriage there, was not only a meanes to keepe the ſaid <hi>Fowder</hi> from having the Arreaſt awar<g ref="char:EOLhyphen"/>ded by the Privy Councell laid upon him, but did alſo much pre<g ref="char:EOLhyphen"/>judice the publique affaires of the State, and retarded and diſtur<g ref="char:EOLhyphen"/>bed the proceedings, to the great Encouragement of thoſe pirates and Malignant party, ſcandall of the Parliament, obſtruction of Trade, hinderance of the Cuſtomes, and griefe and loſſe of the petitioners and other well-affected.</p>
+                        <pb n="3" facs="tcp:117175:3"/>
+                        <p>Now foraſmuch as the premiſſes are not only Damageable to the Petitioners in their private intereſt, but doe containe mat<g ref="char:EOLhyphen"/>ter of State and are of much publique concernment for the Advance of trade at home, and removing all miſunderſtand<g ref="char:EOLhyphen"/>ings abroad, to have the ſaid <hi>Day</hi> that hath been ſo ſcandal<g ref="char:EOLhyphen"/>ouſly Malapert in his Language againſt the Parliament, and deceitfully falſe in his truſt, and treacherous to the publique, to be made exemplary in his puniſhment, that others may be deterred from the like hereafter.</p>
+                        <closer>The Petitioners humbly pray, that the ſaid <hi>Day</hi> may be convented before his honourable Committee, And the premiſſes apearing to be true, that he may not only be or<g ref="char:EOLhyphen"/>dered to give the petitioners ſatisfaction for their da<g ref="char:EOLhyphen"/>mages, but have open puniſhment inflicted on him ac<g ref="char:EOLhyphen"/>cording to Juſtice.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon which I preſently put in a Vindication, the which I have likewiſe ſet downe being delivered the 9. of <hi>July.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Petition">
+                        <opener>To the Right Honourable, the Committee of Lords and Commons for the Admiralty and Cinque-ports.</opener>
+                        <head>The humble Vindication of <hi>John Day</hi> of London, Merchant, unto a moſt falſe and ſcandalous Remonſtrance of <hi>John Peacock</hi> the ſecond of <hi>July, 1646.</hi>
+                        </head>
+                        <p>SHEWING,</p>
+                        <p>THat your petitioner did goe over unto Oſtend at the entrea<g ref="char:EOLhyphen"/>ty of the ſaid <hi>Peacock</hi> and diverſe other Merchants, as in his Remonſtrance is expreſſed, and there did them faithfull ſervice to the uttermoſt of his indeavours.</p>
+                        <p>That it may ſo appeare to this honourable Committee, it is moſt humbly prayed, that in regard of your great affaires your Honours would be pleaſed to referre the examinations thereof unto any two Merchants whom your Honours ſhall think fit, or the petiti<g ref="char:EOLhyphen"/>oner is content that the ſaid <hi>Peacock</hi> ſhal make choice of any two Merchants, whereby they may examine the truth of the Buſines and ſo report unto your Honours.</p>
+                        <p>That in the Remonſtrance he ſetteth forth diverſe ſcandalous
+<pb n="4" facs="tcp:117175:4"/> truths, producing of atteſtations, which if ſhould be really Truth, I confeſſe I deſerve death; whereas in his prayer he deſireth your petitioner might be convented before this Honorable Committee, And the premiſſes appearing to be true, that your petitioner may have open puniſhment according to Juſtice, All which is moſt heartily deſired of your Petitioner, That if this Honourable Com<g ref="char:EOLhyphen"/>mittee ſhall thinke fit, That the Examination of theſe Atteſtati<g ref="char:EOLhyphen"/>ons, the Conditions and Qualities of the perſons of the Atteſta<g ref="char:EOLhyphen"/>tors, may be examined by ſome indifferent men, as your Ho<g ref="char:EOLhyphen"/>ſhall think fitting.</p>
+                        <p>Your Petitioner humbly prayeth, that the ſaid <hi>Peacock</hi> may forthwith declare what other Merchants are complainers againſt your petitioner beſides himſelfe, no mans hand to the Remonſtrance but his owne, and that this may be with all expedition effected, the rather, in that your Petitioner hath great imployments, as the ſole printing of the Bills of Prices, to the advance of Trade, encreaſe of Cuſtome, great benefit to the Merchants in generall, to the Honour of the Citie, and to the profit of the State many thouſand pounds <hi>Per annum,</hi> which your Petitioner cannot proceed in, untill this vexatious buſineſſe be ended, the ſaid <hi>Peacock</hi> being many hundered pounds in your petiti<g ref="char:EOLhyphen"/>oners debt, and ſeeketh to pay your petitioner with falſe ſcan<g ref="char:EOLhyphen"/>dalls and vexatious ſuits, as having arreaſted your petitioner in Eleven hundred pounds Action, which is ſtill depending in the Common-Pleas</p>
+                        <closer>And your Petitioner ſhall pray, &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>About the 27. of <hi>June,</hi> 1645. I was deſired by M. <hi>Peacock</hi> and ſome others intereſſed in a Ship taken comming from <hi>Amſterdam</hi> bound for <hi>London,</hi> by one Captaine <hi>Francis Fowther</hi> that went to Sea with the Kings Commiſſion, and brought up to <hi>Oſtend;</hi> I had no great mind to goe, but at their earneſt importunity, and by vertue of the Procuration, dated the 27. of <hi>June,</hi> which Procu<g ref="char:EOLhyphen"/>ration followeth in theſe words: <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="5" facs="tcp:117175:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>
+                           <hi>ON this day, the 27. day of the month of</hi> June, <hi>in the yeere 1645. ſtyle of</hi> England, <hi>before me</hi> Abraham der Kinder <hi>Notary and Tubellion publique dwelling in this City of</hi> London, <hi>by the authority of the Kings moſt excellent Ma<g ref="char:EOLhyphen"/>jeſty of Great Britaine, admitted and ſworne, and in the pre<g ref="char:EOLhyphen"/>ſence of the under-written witneſſes perſonally appeared</hi> John Peacock, George Coney, Richard Streater, John Free<g ref="char:EOLhyphen"/>man, William Carter, Ralph Grafton, James Sotheby, Matthias Eyre, John Gibbs, <hi>and</hi> Robert Hammon. <hi>all Merchants and inhabitants in this city of</hi> London <hi>aforeſaid; The which ſaid Appearers joyntly and every of them ſeverally have authorized and conſtituted even as they doe authorize and conſtitute by theſe preſents,</hi> John Day, John Hadgſhon, <hi>and</hi> Robert Jefferey, <hi>all three Merchants, reſiding here in this City of</hi> London, <hi>being preſent, and taking upon them the charge of this procuration; Giving and granting unto them and every of them ſeverally, full power and authority, and ſpeciall Command, for and in the names of them, Conſti<g ref="char:EOLhyphen"/>tuants, and every of them to claime, aske, demand, recover and receive out of the hands of whatſoever perſon or perſons whereſoever they are or ſhall be found, all ſuch goods, wares, merchandizes, and other things whatſoever, as they conſti<g ref="char:EOLhyphen"/>tuants and every of them joyntly and ſeverally are to have, and unto them are belonging and appertaining, the which were laden in the months of May and June laſt at</hi> Amſterdam <hi>in</hi> Holland <hi>for this port of</hi> London, <hi>aboard the ship called the</hi> Barak <hi>and</hi> Deborah <hi>of</hi> London, <hi>Mr.</hi> William Rous, <hi>and afterwards taken in Sea by Captaine</hi> 
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> 
+                           <hi>by him brought into</hi> Oſtend <hi>in</hi> Flanders, <hi>of their Receipts to Paſſe Acquittances in due forme, and in the whole to paſſe all ſuch acts; inſtruments and notes as there unto ſhall be needfull and requiſite; And (if need be) to proſecute the Recovery of
+<pb n="6" facs="tcp:117175:5"/> the premiſſes before all Lords and Magiſtrates againſt whom and for what occaſion the ſame may be, to agree, compound, &amp;c. And further (aswell in Law as without) to agitate doe and leave undone as in and concerning the premiſſes ſhall be need<g ref="char:EOLhyphen"/>full and required; And as they Conſtituants might or could doe, if they were perſonally preſent, with power to ſubſtitute one or more Attorneys in their ſteads, And they Conſtituants and every of them aforeſaid doe promiſe to hold for good firme and of value all and whatſoever by their ſaid Attorneys and every of them and their ſubſtitutes ſhall be done and procured in the premiſſes; To ſtand to the Law and performe what ſhall be adjudged (if need be)</hi> ſalvo ſibi in omnibus juſto com<g ref="char:EOLhyphen"/>puto inde reddendo. </p>
+                        <closer>
+                           <dateline>Thus done and paſſed in this Citty of London in the preſence of <hi>Hillary Aſhton</hi> and <hi>Edmund Webberley</hi> as witneſſes hereunto called. And they Conſti<g ref="char:EOLhyphen"/>tuants have here ſubſcribed with the ſaid Witneſſes; were ſub<g ref="char:EOLhyphen"/>ſcribed</dateline>
+                           <signed>
+                              <hi>John Peacock, Ralph Grafton, Richard Sedge<g ref="char:EOLhyphen"/>wicke,</hi> Factor to <hi>Mathias Eyre, John Gibbs, Hillary Aſhton, Edmund Webberley.</hi>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <hi>Haec praeſens Tranſlatio concordat ſubſtantial. cum ſue originali.</hi>
+                           </p>
+                           <closer>
+                              <signed>Ita atteſtor, Abraham der Kinder <hi>Notar. Public.</hi>
+                              </signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By which you may perceive the power given mee, and at the ſame time received from <hi>Peacock,</hi> his inſtructions truly here ſet downe directions under his owne hand writing by him confeſſed before M. <hi>Stephen Burton,</hi> M. <hi>Thomas Browne,</hi> M. <hi>Lu<g ref="char:EOLhyphen"/>cas Luce,</hi> all knowne Merchants and honest men, being our Arbi<g ref="char:EOLhyphen"/>trators, as hereafter ſhall more appear, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>Directions how to buy in the goods of <hi>John Peacock,</hi> in caſe you cannot recover them.</head>
+                        <opener>
+                           <dateline>London <date>this 27. of June, 1645.</date>
+                           </dateline>
+                        </opener>
+                        <pb n="7" facs="tcp:117175:5"/>
+                        <p> The Pot-aſhes at 6. gl. or 7. gl. or 8. gl. the C. or 9. gl. or the whole 6. Fatts at 600. gl. or 700. gl. or 800. gl. or 900. gl. <note place="margin">4 KP.</note>
+                        </p>
+                        <p>The Oyle at 30. gl. or 35. gl. or 40. gl. or rather then faile 50. gl. <hi>per</hi> Hogſhead: or if they will ſell by the Ame at 25. gl. or 26. gl. or 27. gl. or 28. gl. or 30. gl.<hi>per</hi> Ame. <note place="margin">4 KP.</note>
+                        </p>
+                        <p>The Mollaſſes at 120. gl. per tunne, or 125. gl. per tunne, or 130. gl. per tunne, <note place="margin">4 KP.</note> or 140. gl. per tunne, or 150. gl. per tunne. The ten Hogſheads and the little Barrell makes two tunnes and an halfe, or it the utmoſt 7. gl. 10. ſt. per C.</p>
+                        <p>A Fat of Wire the Ring at 20. ſt. 30. ſt. or 40. ſt. or the whole Fatt 320. gl. or rather then faile at 350. gl. or if they will ſell it by the C. at 20. gl. or 30. gl. or 40. gl. per C. <note place="margin">No. Pl. 15.</note>
+                        </p>
+                        <p>This Fat of Wire at the ſame prices and conditions. <note place="margin">No. Pl. 15.</note>
+                        </p>
+                        <p>The biggeſt bundell of ſmall Wiers at 20. ſt. per Ring, or 30. ſt. or 36. ſt. per Ring, or the whole bundell at 80. or 90. gl. or by the C. at 20. 25. 30. 35. or 36. gl. per C.</p>
+                        <p>The leſſer bundle of looſe Wyer ſmall, 20. ſt. 30. ſt. or 34. ſt. per Ring. or 60. or 70. gl. the whole bundle, and as the former bun<g ref="char:EOLhyphen"/>dle by the C.</p>
+                        <p>A Fatt of Iron Wier at 30. gl. or 40. gl. or 50. gl. per C. or the like by the pound.<note place="margin">4 No. KP. 6.</note>
+                        </p>
+                        <p>Foure Bundles of looſe Wier at 12. gl. or 13. gl. or 14. gl. per C.</p>
+                        <p>The Fatt of Iron Wier at 20. ſt. or 40. ſt. per Ring, or 20. or 30. gl. or 40. gl. per C. <note place="margin">4 No. KP. 5.</note>
+                        </p>
+                        <p>Ten Hogſheads of Brimſtome at 8. 9. or 10. gl. per C. <note place="margin">4 No. KP. 6. 11. 4. 9. 1. 26. 22. 21. 5. 2.</note>
+                        </p>
+                        <p>The Goat-skins at 7. gl. or 8. gl. per Dicker, that is, every ten skins.</p>
+                        <p>And claime the Ship for me <hi>John Peacock,</hi> and <hi>John Free<g ref="char:EOLhyphen"/>man,</hi> and buy it at 300. l. or 350. l. or 400. l. with her Rigging, and all other Tackle.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After my arrivall there in that place, I enquired what goods were unſold, what and unto whom ſold, I uſed all poſſible en<g ref="char:EOLhyphen"/>deavours to buy thoſe that were unſold, applying my ſelfe to die ſaid Captaine <hi>Francis Fowther,</hi> and did ſo temporize with him, that I bought the Ship, and moſt part of the goods that were
+<pb n="8" facs="tcp:117175:6"/> unſold: And afterwards I went to Maſter <hi>Iohn de Lavillety,</hi> who had bought moſt part of M. <hi>Peacocks</hi> goods, told him, I came from the Proprietors to challenge the goods, I underſtood he had bought great ſtore of them, deſired that I might have them at moderate prizes, being it was for the owners. He replyed, that what he had bought was for divers other men that lived out of the Towne, and the moſt part he had ſent away; for what was in his hands he would adviſe them, and uſe his endeavours to per<g ref="char:EOLhyphen"/>ſwade them unto reaſonable profit. I am perſwaded, had I come one week before, I had bought all the goods for leſſe then one third part of what they coſt. I went to adviſe, whether there was no courſe to be taken to arreſt the Ship and Goods, and was infor<g ref="char:EOLhyphen"/>med there was none: howſoever I would very faine have tryed. For within three dayes after my comming, I did ſee a Fatt of Kettles going aboard of a Billander for Bridges, preſently went to the Bailiffe of the Towne, deſired him to lay an Arreſt up<g ref="char:EOLhyphen"/>on it, promiſing him, he ſhould be well contented; but he told me he durſt not: then I offered him 100. gil. With that he went with me to the Burgo-maſter <hi>Eggelſton,</hi> who was Deputy for the Admiralytite of <hi>Dunkerke,</hi> ſhewed him my Procurations, told him I was ſent over expreſly in the behalfe of the Proprie<g ref="char:EOLhyphen"/>tors: he anſwered me very mildly, that the Ship and Goods were condemned at <hi>Dunkerke</hi> for Prize, and that that Towne was ſub<g ref="char:EOLhyphen"/>ordinate to the Admiralty Court of <hi>Dunkerke,</hi> they had no po<g ref="char:EOLhyphen"/>wer to diſobey their Commands, and indeed he ſaid durſt not: it was not onely the loſſe of the place, but ſomething elſe. I deſired him to adviſe mee what I had beſt to doe; he told mee there was no other way but to goe to <hi>Bruxels</hi> to the Supreame Court there; if I could procure any Order from thence, he would be ready to doe me all the favour that could be. The 30. of June the ſame day I arrived, I adviſed <hi>Peacock</hi> himſelfe, as likewiſe the 10. of July and the 5. the Anſwer of which was dated here the 11. of July, which Letter will be very materiall to be inſerted, and hereafter followeth in theſe Words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="9" facs="tcp:117175:6"/>
+                  <opener>
+                     <dateline>Luis Deo. London <date>this 11. July, 1645.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>LOving friend M.</hi> John Day, <hi>Salut. Yours of the 30. of</hi> June primo Julii <hi>and</hi> 5. Ditlo <hi>I have received, and ſee you have drawn upon me 300. l. upon three daies ſight. I have acccepted your Bills, and I will ſee to pay them. I hope you have bought more of my goods, I wonder things ſhould be gone ſo ſuddenly. And if the Captaine could be got out of</hi> Oſtend <hi>in any other Towne, ſure Law would take place. Pray be warie and not buy the Goat-skins too deare, for I feare they be ſpoyled with lying, the wormes will eat them up. Were I there and could any way learns which way any of my goods were gone, I would follow and arreſt them. At</hi> Oſtend <hi>they are Rogues altogether, ſee if the Brimſtone be to be had, and buy it, for I need it. If you cannot have all, buy theſe</hi> 4. <hi>Hogs-heads; ſeem to make no choice, but chooſe theſe</hi> 4. Nomb. 4. 6. 9. 11. <hi>And though you give</hi> 12 <hi>gl. per C. If you have not bought the Goat-skins buy them not higher them</hi> 12. <hi>ſt. per skin. I cannot underſtand what you have bought the Lin-ſeed Oile for. It may be ſome of them are leeked out, and ſo we may pay more then they are worth. Sure if you enquire all the goods will be yet in Towne. I pray you be not ſo haſty to come home, but goe to</hi> Walker <hi>and informe him, and heare what adviſe he will give you and us to helpe our ſelves, for to looſe our goods in a friends Countrie, this faſhion is very abſurd. You write me in your letter that you have drawne</hi> 300. l. <hi>at uſance and</hi> 8.<hi>dayes. But your Bills are at</hi> 3. <hi>dayes ſight, and you never, write to any one at what price you have drawne, aſ<g ref="char:EOLhyphen"/>ſure your ſelfe we know the price how the courſe goeth. M.</hi> Hudſon <hi>writes you have bought in the Lin-ſeede Oyle at</hi> 50.<hi>gl. per the hh. If you have, it is above my Order. I hope to ſee you have gone under Order, but not above. By all meanes ſee to get it under hand, who bought all my goods, or enquire it out diligently who bought my goods that are gone; And more, pray what goods is bought or what goods there is there for</hi> London <hi>let be Laden for</hi> London. <hi>And let the Maſters Mate bring the ſhip over, if they will not ſuffer the Maſter to have to doe with her. Here is one will come over to Load the goods, but we will have our goods come in the Deborah, and I hope they will now give her a free paſſe not to be moleſted by any now. But howſoever there is no coming with<g ref="char:EOLhyphen"/>out
+<gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="8" facs="tcp:117175:7"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="9" facs="tcp:117175:7"/>
+                        <pb n="10" facs="tcp:117175:8"/> Convoy in reſpect of the French; Therefore let them ſtay ſo Convoy if you doe mean us any good. Pray fraight out ſhip off and when ſhe is full whom you pleaſe: I have ſpoke about the Bever wooll, this was exceedingly cladded together, if it be ſo cladded, it is not worth above</hi> 10. s. <hi>if as good as this and not cladded.</hi> 15. 16. 17. 18. s. <hi>per</hi> l. <hi>And for S.</hi> Michaels <hi>Woad, M.</hi> Ramſey <hi>ſaith, that it is worth from</hi> 6. s. to 12. s. <hi>the</hi> 100. <hi>You know the goodneſſe, he ſaith, if but mean, I heare it will yeild</hi> 7. <hi>or</hi> 8. s. <hi>not elſe. Pray give M.</hi> Lavillety <hi>Bills uppon S.</hi> Daniel Le Brum <hi>of</hi> Antwerpe <hi>for his</hi> 300. l. <hi>or what more you ſhall neede for my account, and ſo ſend me a note from M.</hi> Lavilletty <hi>to me to receive theſe Bills in, and let him have his mony at</hi> Antwerp; <hi>Not elſe in haſte, God keepe you.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your loving friend, <hi>John Peacock.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>By which you may perceive, that he had received my three Letters; in that of the 5. of July I had adviſed him at large of all what paſſed, deſiring him to take ſome courſe to eaſe me of my imployment, being very ſorry I undertook it; and for my part I was reſolved not to ſtay. He anſwered me in theſe words, <hi>I pray be not ſo haſty to come home, but goe to</hi> Walker, <hi>and informe him, and heare what advice he will give you and us to help our ſelves, for to loſe our goods in a Friends Country this faſhion is ve<g ref="char:EOLhyphen"/>ry abſurd.</hi> Now here was a contradiction to my deſire, which was, to returne home, according unto my promiſe to him and the reſt; for though I took an abſolute Procuration from them, yet I did declare my ſelfe that I could make no long work of it, and that I would not ſtay there above five or ſix dayes, and that by no meanes I would undertake any Law-ſuits, and that they ſhould give me 10. l. towards my charges, and that if the Ship and Goods were not ſold before I came, and that I did buy them, they ſaying the Ship and Goods were worth 10000. l. I would be contented with 3. per C, but in caſe that they were ſold, then to have ſuch ſatisfaction for my expences and loſſe of time, is ſhould in reaſon be thought fitting. After they had verbally pro<g ref="char:EOLhyphen"/>miſed this, I conſidered with my ſelfe that I went upon uncer<g ref="char:EOLhyphen"/>tainties, with all the great loſſe that might be in my imployments.
+<pb n="11" facs="tcp:117175:8"/> He prayed me to goe how ſoever, I ſhould be well contented to my owne deſires, as by this will appeare.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>WEE under-written doe confeſſe, that about the</hi> 27. <hi>of</hi> June <hi>laſt, That M.</hi> John Peacock <hi>did come unto</hi> John Day <hi>up<g ref="char:EOLhyphen"/>on the Exchange, asked him if he were reſolved to goe for</hi> Oſtend: John Day <hi>ſeemed very unwilling, ſaying, He was loth to goe, fea<g ref="char:EOLhyphen"/>ring he ſhould doe you little good. <g ref="char:V">Ʋ</g>pon which M.</hi> Peacock <hi>anſ<g ref="char:EOLhyphen"/>wered, Goe howſoever, you ſhall have ſatisfaction to your own con<g ref="char:EOLhyphen"/>tent,</hi> or words to that purpoſe.</p>
+                  <closer>
+                     <signed>
+                        <hi>Thomas Stone.</hi>
+                        <lb/> 
+                        <hi>Thomas Cowell.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon which faithfull promiſes I departed that night, and uſed ſuch diligence, that five dayes after I came to <hi>Oſtend,</hi> as former<g ref="char:EOLhyphen"/>ly declared. In this Letter of the 11. <hi>July,</hi> 1645. he adviſeth, that he had accepted my Bills of Exchange of 300. l. and would ſee to pay them. In my Letter of the 5. I adviſed him, that I had drawne upon him at 3. dayes ſight 300. l. but wiſhed him by all meanes to ſend me a note from M. <hi>Luce,</hi> whereby I might recover the monies which he did not doe: M. <hi>Lavillety</hi> would undertake no further then he had Baiard in the ſtable, which if I had done ſo, I had never runne into this inconveniencie. You may be pleaſed to obſerve, that <hi>Oſtend</hi> is a Towne of little or no trade, only a Garriſon for Souldiers; And all that time the only Randevous for Pirats. There's no exchange nor monies to be had, but what is ſent per Poſt or other wiſe for <hi>Antwerpe</hi> or <hi>Lile,</hi> which at that time was ſo dangerous, that ſcarce a Poſt could ride, for the Duke of <hi>Lorraines</hi> forces lay between <hi>Bridges</hi> and <hi>Gaunt</hi> upon the one ſide of the River, and the Prince of <hi>Orange</hi> on the other, be<g ref="char:EOLhyphen"/>tween <hi>Oſtend</hi> and <hi>Lile,</hi> the French lay about <hi>Iper</hi> and thoſe parts, ſo that for divers dayes no Poſt came. Captaine <hi>Fowther</hi> was very earneſt for his mony, I told him the reaſon was, no Poſt came; About the latter end of <hi>July</hi> there came a Poſt and brougth ſome monies, but not all, about 1600. gl. wiſhed M. <hi>Lavillety</hi> to pay M. <hi>Peacocks</hi> account 1400. gil. Which was done accordingly, faithfully promiſing unto the Captaine by the next poſt to pay him all, as indeed I had done, if I had recovered mony to have done it withall. The next week before the Post came arrived
+<pb n="12" facs="tcp:117175:9"/> 
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>helwell</hi> with Procuration from Doctor <hi>Walker</hi> and arreſted <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ptaine <hi>Francis Coleman</hi> and all the goods that he could meets with, that were not delivered nor paid for; what moneys were any way owing unto him, and would have arreſted Cap. <hi>Fowther,</hi> but he ſaith ſince, that I conveyed him away. The next day the ſhip of <hi>Fowther,</hi> as like wiſe all goods and montys that were any way due or belonging unto him, he arreſted in M. <hi>Lavillety</hi> his hands and in my hands, what moneys I owed unto <hi>Fowther,</hi> I got a coppie of his Procurations, the Doctors Remonſtrance, and the order for the arreſt, came for England, acquainted the Mer<g ref="char:EOLhyphen"/>chants, ſtaid ſome ten dayes, and at the entreaty of the Merchants went over againe, for indeed I could not in Conſcience leave the Buſineſſe ſo imbroild, but before I went backe was commanded to attend the Honourable Committee of the Admiralty, where I appeared and ſome Merchants with me, where it was deſired that their Honours would be pleaſed to write unto the Agent Do<g ref="char:EOLhyphen"/>ctor <hi>Walker</hi> to accomodate the Merchants in what he could for recovering of their goods, one of the Honorable Committee asked me, if I knew M. <hi>Thelwell?</hi> I anſwered, yes; another asked me, what I thought of him? I told them in plaine termes, that he was a man very urfit for any Honourable imployments. I went the next day backe for <hi>Flanders,</hi> where I uſed ſuch diligence, that within ſix dayes I was at <hi>Bruxells,</hi> but before my com<g ref="char:EOLhyphen"/>ming about ſixe houres M. <hi>Thelwell</hi> had received a letter from a friend of his, that belonged to the Committee, ſhewed me the letter and who wrote it, but the partie hath ſince denied it, and ſhall be no more queſtioned by me, but whoſoever he was, he did ſomewhat enlarge in his Relation. <hi>Thelwell</hi> ſo ſoone as he had received his letter, told the Doctor that I had abuſed him ſufficiently before the Committee, but it was no great matter, for I had abuſed his worſhip, ſpeaking ſtrange ſcandalous words of him before M. <hi>Bailey</hi> of <hi>Bridges</hi> and others, the next morning comming before his Worſhip, after I had done my duty, and pre<g ref="char:EOLhyphen"/>ſented his Worſhip with ſome letters, beganne to be very angry, asking me what offence he had ever done me, that I ſhould abuſe him? I admired what he meant, proteſted unto him, I never had any reaſon to doe it, he told me, he could prove it, I anſwered, I ſhould be aſhamed to looke him then in the face, called M. <hi>Peter
+<pb n="13" facs="tcp:117175:9"/> Thelwell,</hi> asked whether I had not abuſed him in words, replyd, yes, I demanded when and before whom, he ſayd at <hi>Bridges,</hi> before M. <hi>Bailey,</hi> told his Worſhip, that I was certaine M. <hi>Baily</hi> would not juſtify any ſuch thing, knowing that I had better breeding then abuſe a Gentleman of his quality, eſpecially one that I never ſaw in my life before, deſired M.<hi>Baily</hi> might be ſent for, who then was in Town, and lay but hard by: At my entreaty he ſent one of his foote boyes for him, before his comming his Worſhip had occaſion of other buſineſſe, next day invited me to dinner, M.<hi>Thel<g ref="char:EOLhyphen"/>well</hi> invited M. <hi>Baily,</hi> where we were very kindly uſed, after dinner he told me, that he was very well ſatisfyed I had not ſpo<g ref="char:EOLhyphen"/>ken ill of him, I deſired his favour in Reſpect of the Merchants, he bid me comply with M. <hi>Thelwell</hi> I ſhould find him very ready, knew not well what doe; M. <hi>Thelwell,</hi> having had ſo late notice of the words ſpoken of him, howſoever I confeſſe the words, M. <hi>Baily</hi> made us both friends; After we had dranke together, then we came to a Treatie, M. <hi>Baily</hi> was very helpfull unto us both. It was argeed between us and allowed of by the Doctor before a Publique Notary under the ſeale of <hi>Bruxels</hi> bearing Date: which Agreement I have extant, by which it was under-hand a<g ref="char:EOLhyphen"/>greed, that I ſhould pay unto M. <hi>Baily</hi> 60. Piſtolls, which I was contented to doe, with this proviſo, that if I did not recover the Ship and goods my obligation was to be of no validity. I thought my ſelfe certaine all was right, but comming to <hi>Oſtend</hi> ſhewing my Councell the agreement, they adviſed me to goe to the Burgoemaſter M. <hi>Eggleſton,</hi> who told me, he could not deli<g ref="char:EOLhyphen"/>ver the ſhip and goods without they were praized, unleſſe it was agreed between the Agent that pretended intereſt, and Captaine <hi>Fowther,</hi> that they were both contented with a certaine Summe be it little or much he would accept it, otherwiſe it would be a long and troubleſome buſineſſe, there was no remedy, but I muſt back againe, came to <hi>Gaunt,</hi> where I found his Worſhip and M. <hi>Peter Thelwell,</hi> repaired unto them, told them the occaſion of my returne, deſired there might be no further delays: Doctor <hi>Walker</hi> promiſed me very faire ſtillbade me comply with M. <hi>Thelwell,</hi> I came thither about the fourth of <hi>October,</hi> being upon a Friday or Saturday, we met, where we compared notes, and I told him that the Proprietors who had truſted me, would expect ſome accom<g ref="char:EOLhyphen"/>modations
+<pb n="14" facs="tcp:117175:10"/> for their great charges, beſides their extracted loſſe o<g ref="char:EOLhyphen"/>ther wayes, and that my loſſe of time was precious, I entreated him of all friendſhip, that things might be accommodated ſo for as if poſſible they might give content, he promiſed me he was ſorry that the Burgomaſter of <hi>Oſtend</hi> would not follow the order he had given, and becauſe it ſhall appeare to the world my ſince<g ref="char:EOLhyphen"/>rity, I have tranſlated that agreement with the Procuration given by Doctor <hi>Walker</hi> by Maſter <hi>Thelwell,</hi> dated the eleventh day of <hi>September,</hi> 1645. which Procuration I have alſo thought fit here to inſert, <hi>viz.</hi>
+            </p>
+            <p>On this day, the 11. of the month of <hi>Septemb.</hi> in the yeere 1645. before me <hi>Iacob Van Boſſuiit</hi> Publike notary by the Soveraigne Councell of his Royall Majeſty in <hi>Brabant</hi> admitted reſiding in <hi>Bruſſells</hi> and the witneſſes heareafter named perſonally appeared the worſhipfull <hi>Peter Thelwell</hi> as being conſtituted and authori<g ref="char:EOLhyphen"/>zed eſpecially to the Cauſes here under written by the well learned <hi>Walter Walker</hi> Doctor in the Lawes Prolegate of the Parlia<g ref="char:EOLhyphen"/>ment of England, according to the contents of the inſtrument thereof, being dated the third day of <hi>Auguſt</hi> laſt paſt, ſubſcribed by the ſaid conſtituant with his ſigne and ſeale hereupon imprin<g ref="char:EOLhyphen"/>ted in red wax, now ſhewing and appearing unto me Notary, and the ſaid Appearour, hath by vertue and according to the power of the ſaid Procuration declared even as he declareth by theſe Preſents to conſent unto <hi>Iohn Day</hi> Merchant in the City of <hi>London</hi> in England aforeſaid, as appointed and authorized by M. <hi>John Pea<g ref="char:EOLhyphen"/>cock, George Coney, Richard Streater, John Freeman, William Carter, Ra. Grafton, Iames Setheby, Matthias Eyre, Iohn Gibbs,</hi> and <hi>Robert Hamon,</hi> all Merchants and inhabitants in the ſaid City of <hi>London:</hi> That the ſaid <hi>Iohn Day</hi> in the ſaid quality, for<g ref="char:EOLhyphen"/>aſmuch as it may concerne him, appeares in his ſaid Quality, not<g ref="char:EOLhyphen"/>withſtanding the Arreſt made by him Appearor upon the goods hereafter written by the perſon of <hi>Peter Thelwell,</hi> may take up un<g ref="char:EOLhyphen"/>der ſure and ſufficient baile by him put in the goods and wares hereafter written, to wit, the Ship and what belonged unto her, foure cheſts with blades for Rapiers, two of them marked with the letters <hi>ME.</hi> and the other two with the letters <hi>R.G. Item</hi> in hundred and twelve Bales of Anniſeeds marked with the letter <hi>L. Item</hi> foure Caſes with Skrewes of Piſtols marked with the let<g ref="char:EOLhyphen"/>ters
+<pb n="15" facs="tcp:117175:10"/> 
+               <hi>J.G. Item</hi> two caſes of Bever Wool. <hi>Item</hi> foure ſmall bar<g ref="char:EOLhyphen"/>rels of Quick-ſilver. <hi>Item</hi> two caſes with <hi>Salſaperilla,</hi> marked with the marke R<hi rend="sup">4</hi>. <hi>Item</hi> one ſmall barrell with Mace, and a number 1 w<hi rend="sup">w</hi>. of Goat-skins, beſides two Caſes with Shrewes of Piſtolls, one ſmall caſe with Locks for Piſtolls; All the which goods are lying at <hi>Oſtend</hi> Sequeſtred by the Lords the Committees for the Admiralty of <hi>Dunkerke</hi> by Order of His Royall Majeſtie in his private Councell Dated the fifth day of <hi>Auguſt</hi> laſt paſt, and that in diverſe places within the ſaid Cittie of <hi>Oſtend</hi> there<g ref="char:EOLhyphen"/>unto appointed by the ſaid Lords Committees, and came out of of the Ship <hi>Barak</hi> and <hi>Deborah,</hi> whereof was M.<hi>William Rous</hi> of <hi>London</hi> taken in Sea by Captaine <hi>Francis Fowther</hi> and by him brought into <hi>Oſtend</hi> in <hi>Flanders</hi> aforeſaid, the ſaid goods being of the ſaid Arreſt and he appear our conſenting to the ſaid <hi>John Day</hi> or his Order hereof this preſent Act, for according to the power thereby to proſecute the recovery thereof, with putting in ſu<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ty of one hundred Pounds g<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> once into the hands of the ſaid Committees through the perſon of M.<hi>Iohn de la Valette</hi> Marchant in Oſtend, Promiſing to hold the ſame conſent, for good and of value under Bond of his and his Conſtitutors Perſons and goods preſent and to come. Thus done in this Citty of <hi>Bruſſells</hi> in the preſence of <hi>H<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bert Vander Meulon,</hi> and <hi>Paul Baily</hi> as Witneſſes hereunto called, and the Draught thereof was ſubſcribed by the ſaid Appearours with me Notary. <hi>Quod at<g ref="char:EOLhyphen"/>teſtor,</hi> was ſubſcribed <hi>Jacob Van Baſſuiis</hi> Notar.</p>
+            <p>You may be pleaſed to take notice, that this Procuration was mended at <hi>Gaunt</hi> afterwards by Maſter <hi>Thelwels</hi> conſent, ſome<g ref="char:EOLhyphen"/>thing being added, and likewiſe in Latine I ſet downe Doctor <hi>Walkers</hi> Procuration unto Maſter <hi>Thelwell,</hi> which bred all this confuſion. M. <hi>Thelwell</hi> promiſed me to doe what I would deſire, but I muſt give him 80. Piſtols, beſides the 60. Piſtols that I for<g ref="char:EOLhyphen"/>merly promiſed to pay unto M. <hi>Bailys</hi> more, that I ſhould pro<g ref="char:EOLhyphen"/>miſs him as hundred Piſtols, to cleere Captaine <hi>Fowther</hi> from Arreſt, the which I would not yeeld unto conceiving that no A<g ref="char:EOLhyphen"/>gent ſhould make any ſuch unjuſt demands to the prejudice of the honeſt Merchants. This was his demand about 6. of <hi>October</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <q>
+               <pb n="16" facs="tcp:117175:11"/>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="document">
+                        <head>Copia Mandati.</head>
+                        <p>UNiverſis ad quos pervenerint preſentes, ſalutem. Ex re<g ref="char:EOLhyphen"/>monſtratione facta Domino Regiper nos Walterum Walker Legum Doctorem Prolegatum Parliamenti Anglia, ordi<g ref="char:EOLhyphen"/>natum oſt de Sequeſtratione bonorum in quadam Navi, cujus erat Joannes Tomaſon Magiſter nuper de facto intercept' &amp; vi<gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>lenter occupat' per quendam Capitaneum Coleman, &amp; de arreſta<g ref="char:EOLhyphen"/>tione corporis dicti Coleman pro cautione interponenda de omnibus bonis diſſipatis prout in ordine continetur, Quid tamen no<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Pro<g ref="char:EOLhyphen"/>legatus antedictus ad Dankerkham, &amp; Oſtend, &amp; alibi pro pr<gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ratione executionis dicti ordinis co<g ref="char:cmbAbbrStroke">̄</g>mode itinerarinon poſſumus, con<g ref="char:EOLhyphen"/>ſtituimus, &amp; per praeſentes nominamus &amp; conſtituimus dilect<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m nobis in Chriſto Petrum Thelwell Armigerum, noſtrum Procura<g ref="char:EOLhyphen"/>torem, Actorem, &amp; Factorem, tam qaoad pramiſſa, quam quoad omnes alias cauſas &amp; negotia in abſentia noſtra, nomine noſtre, vel pro nobis expediend', damuſque &amp; concedimus eidem Petro Thelwell poteſtatem generalem &amp; mandatum ſpeciale, de a<g ref="char:EOLhyphen"/>gendo, faciende, &amp; procurande totum &amp; quicquid &amp; omnia &amp; ſingula quae nos ſi praeſentes perſonatitor intereſſemus opud Dun<g ref="char:EOLhyphen"/>kerc vel Oſtend. vel aliquo alio loco expedire facire vel procurare poſſemus.</p>
+                        <closer>
+                           <dateline>In cujus rei teſtimonium manum noſtram praeſentibis op<g ref="char:EOLhyphen"/>poſuimius. Datum Bruſſellis <date>tertie die Auguſti, 1645. </date>
+                           </dateline>
+                           <signed>Signatum Walt.Walcher.Prolegatus Parliamenti Anglia cum ſigille rubre ad lntus impreſſo.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Concordat cum originali.</p>
+                           <closer>Quod atteſtor,
+<signed>Van Boſſuiit Notar. P.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Preſently I wrote to Doctor <hi>Walker,</hi> to deſire him to ſtand for the good of the Merchants, acquainted him with the proceedings of M.<hi>Thelwell,</hi> deſired him for Gods ſake that they might not ſuffer in their eſtetes; he would not anſwer my Latter 12. of Octber; returned to Oſtend, intending for <hi>England,</hi> came to <hi>Oſtend</hi> the 15. the 16. I wrote unto Maſter <hi>Peacocks,</hi> the Copie of the Letter hereafter followeth in theſe expreſſe words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="17" facs="tcp:117175:11"/>
+                  <opener>
+                     <dateline>
+                        <hi>Oſtend, <date>16 October, 1645.</date>
+                        </hi>
+                     </dateline>
+                  </opener>
+                  <p>MAſter <hi>John Peacock,</hi> Loving friend, I came hither laſt night from Gaunt, where I had beene with Maſter <hi>Thelwell</hi> eight days to have compoſed your unfortunate buſineſſe, and in concluſion effected nothing, his demands being beyond my expectation, far be<g ref="char:EOLhyphen"/>yond his deſerts, <hi>80.</hi> Piſtols to be paid preſently, <hi>60.</hi> Piſtols to pay <hi>Paul Baily, 100.</hi> Piſtols to releaſe the Arreſt upon the perſon of Cap. <hi>Fowther,</hi> though not yet arreaſted; I could not find Piſtols to ſheet off ſo faſt; I am in ſuch a ſtrait, I know not what to do. My reſo<g ref="char:EOLhyphen"/>lution is, God willing, to write no more to you: expect an Anſwer of this, ſo to return, in the meane times, I pray ſpeak with the reſt a<g ref="char:EOLhyphen"/>mong you, appoint ſome body either to come hither to diſcharge me, and to looke after your goods, or order me or deliver over your Procurations to whom you will appoint, for I take God to witneſſe, I am ſo weary of this buſineſſe, that I wiſh to have given 50. l. out of my owne purſe, that I had never come over, or adviſe the reſt of the intereſſed to take ſome ſpeedy courſe, that you may not be cozined of all, I have writ to the Agent, deſiring him to be aſſiſtant unto you, whereby you may be fairely dealt withall; truly he is a very honeſt gallant Gentleman, and one (as I conceive) will doe no unjuſt act; but there is one againe with him of a broken fortune, M. <hi>Thelwell,</hi> that looks nothing more, but to enrich himſelfe by other mens loſſes. I could be larger in writing of very ſtrange paſſages, but dare not, remembring wel where I am, that for ſmal matters make nothing of killing men, but God bleſſe me with ſafety to returns, I ſhall declare to the Honourable Committee, and to the Merchants, the true ſtate of the buſineſſe here. I have written to M. <hi>William Chriſtmas,</hi> I wiſh you to confer with him, with my love remembred.</p>
+                  <closer>
+                     <signed>
+                        <hi>Yours to command,</hi> Iohn Day.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Poſtſcript.</hi> I received by the laſt Packet not a Letter from no man, forget me not, I doe not you. Here is a report that a Dagger Boat lately gone out with 6. Gunnes is taken and carryed to <hi>London,</hi> the Captaines name <hi>Hooker,</hi> a gallant man, his crew anſwerable to himſelfe, that theſe Parliament dogs that he can take, God damne him ſhall over<g ref="char:EOLhyphen"/>boord, or elſe carry them to <hi>Argiers.</hi> Here are many brave Cap<g ref="char:EOLhyphen"/>taines,
+<pb n="18" facs="tcp:117175:12"/> not to compare to this. I pray remember my ſervice to Cap<g ref="char:EOLhyphen"/>taine <hi>Cramley,</hi> if he be taken, he can and will take ſome courſe for his ſafety.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>By which I adviſed him of my fruitleſſe voyage, ſtaid at <hi>Oſtend</hi> three or foure dayes, in that interim <hi>Coleman</hi> was releaſed, had notice of other goods that were conveyed away, as Platts which were conveyed to the hands of M. <hi>Chriſtopher Meyſtron<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> for the ſatisfying of a Bill of Exchange of M. <hi>Thelwell.</hi> After adviſe I ſaw apparent, that there was an abſolute agreement betweene <hi>Humbleton</hi> and <hi>Thelwell</hi> to cozen the Merchants of their eſtates, went to the Burgo-maſter <hi>Eggleſton,</hi> acquainted him of their purpoſe: he told me that he could not helpe it, he had releaſed <hi>Coleman</hi> by vertue of M. <hi>Thelwels</hi> Procuration from the Agents I told him I was very confident our Agent had no notice, nor knew thereof; he bade me acquaint him, if he would ſend any contradiction, he would take ſuch care, that the Merchants ſhould not have their goods embezelled.</p>
+            <p>Whilſt I ſtaid there, I was ſo cruelly tormented with <hi>Rous</hi> the Maſter of the Ship, in that I had not in all that time cleered the Ship, and did keep ſuch a quarter with me, as by this Certificate will more at large appeare. I ſet it downe, becauſe he had ſworn the contrary in his Anſwer, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>VVEE whoſe names are here underwritten, doe teſtifie for truth, that about foure or five moneths paſſed at <hi>Oſtend</hi> Maſter <hi>William Rous</hi> Maſter of the <hi>Barak</hi> and <hi>Deborah,</hi> did can plaine unto <hi>John Day</hi> being then at <hi>Oſtend</hi> of his long delay is not cleering the foreſaid Ship, that the ſaid <hi>Day</hi> did declare, that he could not help it, but ſaid, he did it for the beſt, and hoped to ſave the ow<g ref="char:EOLhyphen"/>ners ſome money; that if the ſaid <hi>Rous</hi> would give him a note of his hand, whereby the ſaid <hi>Day</hi> might not be damnified, he would preſent<g ref="char:EOLhyphen"/>ly goe with him to M. <hi>Livillety,</hi> and give him the money to cleare the ſaid Ship, or words to that effect, that the ſaid <hi>Rous</hi> denyed ſo to doe.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>21. Jan. 1645</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <hi>Henry Batten.</hi>
+                        <lb/> 
+                        <hi>George Blake.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="19" facs="tcp:117175:12"/>
+            <p>I knew not what to doe, at laſt I reſolved (though it coſt me my life) to goe once more to Doctor <hi>Walker,</hi> and to acquaint him with <hi>Thelwels</hi> proceedings, arrived at <hi>Gaunt</hi> the 22. of October, where I adviſed Maſter <hi>Peacock,</hi> the Copie of the Letter I have here ſet downe.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>LOving friend, this Letter I could not ſend by the laſt Packet, ſince yours of the 3 wherein you write you finde little perfor<g ref="char:EOLhyphen"/>mance; for Gods ſake come over, or ſend ſome that can doe more. You would have M. <hi>Rous</hi> his Ship cleared, D. <hi>Walker</hi> ſaith no, he hopes to got it for nothing, but what is already paid, I wiſh it were ſo. Captaine <hi>Fowther</hi> is in a manner contented with <hi>1800.</hi> Gilders, ſhall I pay or depoſite <hi>2600?</hi> M. <hi>Rous</hi> is impatient, I cannot blame him. What between M. <hi>Thelwell,</hi> you, and your Skipper, makes me almoſt mad. Tomorrow for <hi>Bruxels</hi> once more, to bring a period, if poſſible. Howſoever expect as aboveſaid. So reſting,</p>
+                  <closer>
+                     <signed>John Day.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The 24. I came to <hi>Bruxels,</hi> lodged at a private house, ſent unto Doctor <hi>Walker</hi> a Letter, wherein I humbly deſired his Protecti<g ref="char:EOLhyphen"/>on, that I might come and goe unto him without any danger of my life, by reaſon of M. <hi>Thelwell;</hi> that I had buſineſſe of concern<g ref="char:EOLhyphen"/>ment to declare unto him: he ſent his Secretary, who told mee, that I might freely come and ſpeak with him. I did ſo. But for feare of the worſt, I took a Souldier with me for my guard. Who comming before Doctor <hi>Walker,</hi> I truly related what <hi>Thelwell</hi> had done, in releaſing out of priſon Captaine <hi>Coleman,</hi> in the cozening the Merchants of their money and ſharing it amongſt them; the taking of Merchants goods out of the ware-houſes, con<g ref="char:EOLhyphen"/>verting them to their owne uſe, as Platts; M. <hi>Thelwell</hi> confeſſed before Doctor <hi>Walker,</hi> that he had and was to have 3000. gil. as likewiſe the taking out of the Platts, but ſaid, it concerned me nothing, I had nothing to doe with any of thoſe goods that were taken by <hi>Colemen:</hi> I replyed, and ſhewed an Order from Maſter <hi>Fr<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>man</hi> for five Fates, withall telling him, that if I had not that, I was fearfull he might as well doe ſome diſhoneſt act, to the prejudice of the Merchants that I was entruſted for. After many words, he told Doctor <hi>Walker</hi> he had put in good ſecurity to the
+<pb n="20" facs="tcp:117175:13"/> Parliament for any thing that he ſhould acte. I deſired Doctor <hi>Walker</hi> to aske him who was his ſecurity, he ſaid his cozen M. <hi>Thelwell</hi> the Parliament man and his cozen <hi>Charls Loid,</hi> I told Doctor <hi>Walker,</hi> that if he could make that any wayes appeare, <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould reſt ſatisfied, would preſenly depart for <hi>England</hi> wel con<g ref="char:EOLhyphen"/>tented, and trouble him no further, he then told Doctor <hi>Walker</hi> he had it under his Cozen <hi>Loyds</hi> hand, he would ſhew it him the next day, I muſt truly confeſſe, that Doctor <hi>Walker</hi> did ſeri<g ref="char:EOLhyphen"/>ouſly proteſt, that he knew not of any of thoſe paſſages, neither the releaſing of Cap. <hi>Coleman,</hi> the ſharing of the mony, nor taking of any goods, I humbly entreated him, that he would be pleaſed to give a little note of his hand to the Burgomaſter of <hi>Oſtend</hi> for preventing of the further knaveries, and ſecurity of the Merchants goods, which he would not doe, the next day I came to him, de<g ref="char:EOLhyphen"/>ſiring to know whether M. <hi>Thelwell</hi> had ſhewed him the letter from his Cozen for ſecurity, he told me he had not, neither did he beeleve, he had any ſuch, I adviſed the Worſhipfull Alderman <hi>Kenricke</hi> who was interreſſed in the mony, that was ſo ſhared as likewiſe M. <hi>William Chriſtmas</hi> with diverſe others thereof, the 30. of <hi>October</hi> I preſented an humble Petition unto Doctor <hi>Wal<g ref="char:EOLhyphen"/>ker,</hi> the Copie whereof I have truly ſet downe in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>To the Honorable, <hi>Walter Walker,</hi> Doctor of the Law, Agent Extraordinarie for the Honourable Parliament of <hi>England.</hi>
+                        </opener>
+                        <head>The Petition of <hi>John Day,</hi> Merchant, in the behalfe of <hi>Jo. Wood, Rowl. Wilſon, Jo. Frederick, Jo. Peacock,</hi> and divers other worthy Merchants of <hi>London.</hi>
+                        </head>
+                        <p>
+                           <hi>Humbly ſheweth</hi>
+                        </p>
+                        <p>That your Petitioner was ſent over into thoſe parts by the Mer<g ref="char:EOLhyphen"/>chants aboveſaid, with full power and Authority atteſted by the ſeales of <hi>London</hi> and by Publique Notaries Authenticke, as like<g ref="char:EOLhyphen"/>wiſe with a Letter of Credit unto your Honour for your aſſiſtance for what your Petitioner ſhould require concerning the Ship and goods of the <hi>Barak</hi> and <hi>Deborah</hi> M. <hi>William Rous</hi> M.</p>
+                        <pb n="21" facs="tcp:117175:13"/>
+                        <p>May it pleaſe your Honour that your Petitioner hath been moſt unjuſtly retarded theſe nine weekes by M. <hi>Peter Thelwell</hi> and yet is, which hath been by a power, that your Honour gave him Dated the third of <hi>Auguſt</hi> laſt.</p>
+                        <p>By which power the ſaid <hi>Thelwel</hi> hath cunningly and underhand done diverſe ſtrange things to the great prejudice of the Merchants, and to a very ill example, as the releaſing out of Priſon <hi>Cap. Cole<g ref="char:EOLhyphen"/>man,</hi> taking Merchants goods out of the Ware-houſes; all which hath been done without your Honours privity and conſent, as your Petitioner verily beleeveth.</p>
+                        <p>For prevention of the future, let M. <hi>Thelwell</hi> without delay put in very good ſecurity ſuch as your Honour and your Petitioner ſhall thinke fit that nothing ſhall be done to the prejudice of the Merchants. Or elſe</p>
+                        <p>It is moſt humbly prayed, that your Honour will be pleaſed take from the ſaid <hi>Thelwell</hi> the Order or procuration. Dated as aboveſaid, or at leaſt give Order under your Honours hands unto <hi>Seignior Eggleſton</hi> Burgomaſter of <hi>Oſtend,</hi> that he ſhould not ſuffer any goods of the Merchants arreſted, either the goods taken by Captaine <hi>Coleman,</hi> or Captaine <hi>Fowther</hi> to be deli<g ref="char:EOLhyphen"/>vered out to any man without your further Order.</p>
+                        <closer>
+                           <hi>And your Petitioner ſhall pray, &amp;c.</hi>
+                           <signed>Iohn Day.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By which meanes you may plainly perceive, that I did to the uttermoſt of my endeavours deſire Doctor <hi>Walkers</hi> aſſiſtance for the ſafety of the Merchants goods, and withall I told him, that I underſtood <hi>Giles</hi> M. <hi>Thelwells</hi> man was to goe for <hi>Oſtend,</hi> and of what dangerous Conſequence it was, deſired of him to give me two or three lines under his hand, to ſend to the Burgomaſter, he would not, but called for M. <hi>Thelwell,</hi> and asked him why he did not make an end with me, he told Doctor <hi>Walker,</hi> that I de<g ref="char:EOLhyphen"/>manded more goods then I had procurations for. I told him, that my Orders ſhould ſhew the contrary, he told Doctor <hi>Walker,</hi> that if I would leave my Procurations and Orders with him, he would peruſe them, and what I had Order for I ſhould have; Thereupon I delivered him my Procurations, came to him, two or three dayes after to know his pleaſure, he would neither reſolve me what he would doe, nor give my Procurations againe, but
+<pb n="22" facs="tcp:117175:14"/> bid me come by them as well as I could, upon which I Petitioned Doctor <hi>Walker</hi> againe, the Coppie whereof followeth in theſe words <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable <hi>Walter Walker</hi> Doctor of the Law, Agent extraordinarie for the Honourable Parliament of <hi>England.</hi> The Petition of <hi>John Day,</hi> Merchant, in the behalfe of <hi>Jo. Wood, Rowl. Wilſon, Jo. Frederick, Jo. Peacock,</hi> and divers others Worthy Merchants of <hi>London.</hi>
+                        </head>
+                        <p>Humbly ſheweth</p>
+                        <p>THat as yet he hath not received any ſatisfactory anſwer from M. <hi>Peter Thelwell,</hi> concerning the Petition in the behalfe of the Merchants given unto your Honour the 30. of <hi>October</hi> 1645.</p>
+                        <p>May it pleaſe your Honour, as you alwaies have bin inclined to doe Juſtice, and that deluyes are hatefull unto you, your Honour will be pleaſed forthwith if it be with your Honours goodlike<g ref="char:EOLhyphen"/>ing to call in your Procuration, Dated the third of <hi>Auguſt</hi> laſt paſt, wherein your Honour did abſolutely Authorize the ſaid <hi>Thel<g ref="char:EOLhyphen"/>well</hi> to arreſt the perſon and goods of Captaine <hi>Coleman</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Fowther,</hi> which Authority your Petitioner knoweth for certaine, that the ſaid <hi>Thelwell</hi> hath lately much abuſed, and without your Honours ſpeedy redreſſe the Merchants are likely to be very much Damnified.</p>
+                        <p>That the ſaid M. <hi>Thelwell</hi> hath and doth to the great prejudice of your Petitioner, eſpecially to the Merchants intereſſed, detain in his Cuſtody the Procurations and ſpeciall Commiſſions given your Petitioner, from the ſaid Merchants, having been a love<g ref="char:EOLhyphen"/>ing way often deſired to reſtore them, aſwell before your Honour and your Secretary, as diverſe others, which he doth moſt unjuſt<g ref="char:EOLhyphen"/>ly deny to deliver, ſo that your Petitioner is very confident that he hath ſome ill intent.</p>
+                        <p>Your Petitioner well knowing how tender you are of your Ho<g ref="char:EOLhyphen"/>nours reputation leaſt any thing ſhould reflect upon your Ho<g ref="char:EOLhyphen"/>nour,
+<pb n="23" facs="tcp:117175:14"/> your Petitioner humbly deſireth you will be pleaſed to cauſe his ſaid Procurations and Commiſſions to be reſtored, and by your Honour to be enabled to proſecute the ſaid Procurations accor<g ref="char:EOLhyphen"/>ding to their true intent; That your Petitioner ſhall act nothing, nor receive any goods, but ſuch as he hath abſolute authority to re<g ref="char:EOLhyphen"/>ceive, and for which he will be reſponſive, otherwiſe your Petitio<g ref="char:EOLhyphen"/>ner is reſolved forthwith to goe for <hi>England,</hi> to give a juſt and ho<g ref="char:EOLhyphen"/>neſt accompt to the Honourable Committee and the Merchants, that your Petitioner may goe with the more courage.</p>
+                        <p>It is moſt humbly prayed, that your Honour would be pleaſed out of your wonted goodneſſe to give unto your Petitioner a note under your hand to the Burgomoſter of <hi>Oſtend,</hi> that none of the goods arreſted, either the goods taken by Cap. <hi>Coleman,</hi> or by Cap. <hi>Fowther,</hi> ſhall not be diſpoſed of to any intent whatſoever, untill your further order.</p>
+                        <closer>
+                           <hi>And your Petitioner ſhall pray, &amp;c.</hi>
+                           <signed>JOHN DAY.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>At laſt I got my Procurations and Writings, but not untill I underſtood his Honour was reſolved for <hi>England:</hi> To paſſe by many dilatory premiſſes, <hi>Thelwells</hi> intention of murthering me, and had done it baſely, had not his man and M. <hi>Dinſe,</hi> Doctor <hi>Walkers</hi> Interpreter, prevented him, who ſtaid him as he was running at me with his drawn Rapier, as I was ſtanding by the fire ſide.</p>
+            <p>Now I will leave him, and come to Doctor <hi>Walkers</hi> voyage for England, which he having reſolved of, I intended not to leave him, waited upon him to Dunkerke, I paſſed by Oſtend to enforme my ſelfe whether any thing had lately paſſed, deſi<g ref="char:EOLhyphen"/>red maſter <hi>Rous</hi> the Maſter of the Ship to come preſently to Dunkerk to ſpeak with D.<hi>Walker,</hi> who did ſo; we deſired D.<hi>Wal<g ref="char:EOLhyphen"/>ker</hi> that we might have leave to cleare the Ship, that he would be pleaſed to take off his Arreſt, and to take his power which he had formerly given unto M. <hi>Thelwell,</hi> back againe, which he would not doe. I was adviſed to ſend a Notary to proteſt againſt him for all dammages that might happen to the Merchants, did ſo, the 10. of November, 1645. upon which he ſaid he would take away his Procuration from M. <hi>Thelwell,</hi> and would have a care that nothing ſhould be acted to the prejudice of the Merchants, untill
+<pb n="24" facs="tcp:117175:15"/> further adviſe from England. I ſtill urged him for is none to the Burgomaſter, but could not have it. I told him plainly (I did conceive) he did beyond his Commiſſion, for to my knowledge he was deſired to be aſſiſting to the Merchants in what they ſhould deſire, and not to ſeeke to deſtroy them. Whereupon he was ve<g ref="char:EOLhyphen"/>ry angry. So I being reſolved to goe for England, yet I pre<g ref="char:EOLhyphen"/>vailed with him to goe to Seing' <hi>Clauſons,</hi> one of the Judges of the Admiralty, with M.<hi>Thelwell,</hi> unto whom he did ſpeak in La<g ref="char:EOLhyphen"/>tine, declared, as he told me in Engliſh, that he had taken away his Procuration and that he had deſired nothing might paſſe to the prejudice of the Merchants; I did goe with a ſpeciall friend unto Seig' <hi>Clauſons</hi> that evening, and deſired of him to know, Whether that the Agent had ſaid was effectuall to prevent M. <hi>Thelwell,</hi> that he could doe nothing to the prejudice of the Merchants, he told me, what the Agent ſaid to him was but words, and would availe nothing, for if he ſhould averre he had ſaid ſo, the other might deny it, which was but <hi>Pro</hi> and <hi>Con.</hi> By all meanes I ſhould got a note of his hand, I went to the Agent about it, but he would doe nothing, the next day took Shipping, arrived the third day in the morning at Dover, where I left him: the next morning I come to London, and ſent his Letter to his wife of his ſafe arrivall, and come now to my Merchants, eſpecially <hi>Peacock,</hi> how he rewarded me for all my paines and trouble into Flanders. I ſhould be too tedious in writing downe of all his Letters, only take a briuſe abſtract of ſome few, who in his Letter of the 4. of July doth expreſſe in theſe very words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>LOving friend, I have ſince thought with my ſelfe, that if you arreſted the Captaine that took our Ship, you cannot doe amiſs<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and arreſt the Ship alſo, and what goods you can find. But I <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the buſineſſe to doe as you ſhall ſee moſt advantageous.</p>
+               </body>
+            </floatingText>
+            <p>By this you may perſeive ſome confidence he had in me, lea<g ref="char:EOLhyphen"/>ving of it to my diſcration. The 5. of July he adviſed me by M. <hi>William Rous</hi> the Maſter, to ſo furniſh him with what moneys hee ſhould need; accordingly I did furniſh him with what he deman<g ref="char:EOLhyphen"/>ded, as formerly declared by the Certificate of M. <hi>B<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and M. <hi>B<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and would have payd him the full money to have cleared
+<pb n="25" facs="tcp:117175:15"/> the Ship, onely deſired a note of his hand to ſave me harmleſſe when I came into England. In this Letter of the 22. of Auguſt, 1645. if in caſe there be any Law of recover them, doe you endea<g ref="char:EOLhyphen"/>vour, Doctor <hi>Walker</hi> ſaid, I ſhould not buy them, this day and that day they ſhould be recovered. The 9. of <hi>September</hi> he writes thus: <hi>I pray depoſite the money, if the Ship cannot otherwiſe be freed, let what Suit of Law come of is that will.</hi> He knew full well, I had paid 1400. Gilders before, was then upon agreement with <hi>Fow<g ref="char:EOLhyphen"/>ther</hi> upon an Arbitrement that the Ship ſhould not have ſtood them in above 1900. Gil. had not M.<hi>Thelwell</hi> hindred it. I have had di<g ref="char:EOLhyphen"/>vers imployments for ſundry Merchants, but never met with ſuch changeable inſtructions and orders; for firſt he directed me to give for his Wire 40. Gil. then preſently he thought 24. would be ſuf<g ref="char:EOLhyphen"/>ficient. In his Letter of the 18. of <hi>July,</hi> 14. dayes after, when I had in a manner bought it, by his Letter of the firſt of August I muſt not exceed 15. Gil. in his Goat-skins the like, ſo that he did almoſt make me mad. He ſent me from <hi>Antwerp</hi> 400. piſtols cur<g ref="char:EOLhyphen"/>rent at 9. gil. per piſtol to pay for the wire <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> after orders me to ſend it back unto Maſter <hi>Le Bruyne</hi> that ſent it, I did ſo, Had I kept this 400 piſtols towards my large expences and loſſe of time, he and I had never differed; but after once he had got be<g ref="char:EOLhyphen"/>fore-hand with me, I was gone. I ſhall with as much brevity as I can declare how after my returne home I repaired unto him and the reſt, and told them what had paſſed, adviſed what I conceived was beſt for them to doe, informing them, that by the meanes of Doctor <hi>Walker,</hi> the Ship and their goods were retanded, and that they ſhould doe well to Petition the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, none being ſo forward as M.<hi>Peacock</hi> in the buſineſſe: there<g ref="char:EOLhyphen"/>upon they concluded of a Petition to the Honourable Committee of the Lords and Commons for the Navie, the Copie whereof ver<g ref="char:EOLhyphen"/>batim here followeth, <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="26" facs="tcp:117175:16"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable Committee of Lords and Commons for the Navie. The Petition of divers Merchants, whoſe names are here under-written.</head>
+                        <p>H<g ref="char:V">Ʋ</g>mbly ſheweth unto your Honours, that about <hi>June</hi> laſt, the Ship <hi>Barak</hi> and <hi>Deborah</hi> comming from <hi>Amſterdam</hi> was ta<g ref="char:EOLhyphen"/>ken by one Captaine <hi>Francis Fowther</hi> a Pyrate; and carryed to <hi>Oſtend.</hi>
+                        </p>
+                        <p>That upon adviſe thereof your Petitioners ſent over <hi>John Day</hi> with full authority to demand your Petitioners Goods and Ship, ſo well by Law and otherwiſe he ſhould thinke fit; but before he came, your Petitioners goods were ſold, part of the ſaid goods the ſaid <hi>Day</hi> hath bought, as he ſaith, and paid the moſt part for them.</p>
+                        <p>That on the third of <hi>Auguſt</hi> following, M. <hi>Peter Thelwell</hi> by au<g ref="char:EOLhyphen"/>thority from the Worſhipfull Doctor <hi>Walker</hi> did arreſt your Petitio<g ref="char:EOLhyphen"/>ners goods, by which your Petitioners are much damnified.</p>
+                        <closer>Your Petitioners humbly pray, that your Honours will be pleaſed to call before your Honours the ſaid Doctor <hi>Walker</hi> and <hi>John Day,</hi> whereby we may have ſome ſatifaction, the rather in that tht Convoy is come, and our goods are left behind.
+<signed>
+                              <list>
+                                 <item>Nicolas Adams.</item>
+                                 <item>John Peacock.</item>
+                                 <item>Edmund Webberley.</item>
+                                 <item>Robert Jeffery.</item>
+                                 <item>James Burkin.</item>
+                                 <item>Joas Everſen.</item>
+                                 <item>John Clar.</item>
+                                 <item>Thomas Hood.</item>
+                                 <item>Ralph Grafton.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>M. <hi>Peacock</hi> is the firſt man that underwrites, goes along with it ve<g ref="char:EOLhyphen"/>ry earneſt, the Ship and Oyls being not then come. In his Petition I beſeech you obſerve, that he doth there confeſſe, that he ſent me over with full power to demand the Ship and goods ſo wel by
+<pb n="27" facs="tcp:117175:16"/> Law as otherwiſe I ſhould think fit, but if he forſwears this here<g ref="char:EOLhyphen"/>after you muſt conceive, it is for his owne profit. By earneſt wri<g ref="char:EOLhyphen"/>ting unto M. <hi>Lavillety</hi> to aſſiſt <hi>Rous</hi> in what poſſible he could to get his Ship away, moſt faithfully promiſing unto <hi>Lavillety,</hi> that he ſhould be no wayes damnified, he did aſſiſt him, and uſed that meanes, that the Ship and goods ſafely arrived here, <hi>Peacock</hi> and <hi>Rous</hi> they had no more thought of giving ſatisfaction for my ex<g ref="char:EOLhyphen"/>ceſſive expences and great vacancy of time being above 21. or 22. Weeks upon that ſole imployment, but to the contrary the 9. of <hi>December</hi> arreſted me in two actions of 1100. l. Although I never had to deale with him for two pence, I went to priſon in the Compter, where I lay 2. or 3. nights, ſent for the Gentlemen, who came unto me with much a doe, asked him whether I had deſerved ſuch hard dealing from him, what was his reaſon to de<g ref="char:EOLhyphen"/>mand againſt me, was this the ſatisfaction for all the care and paines I had taken for him? He told me, that <hi>Rous</hi> and M. <hi>Sinc<g ref="char:EOLhyphen"/>ler</hi> had told him, that I had paid nothing for the Ship and Oyles, that they had runne away with them, therefore I muſt give him 300. l. back, I replied that were it ſo, I expected a greater recom<g ref="char:EOLhyphen"/>pence for my charges and loſſe of time then the 300. l. I deſired him not to deale ſo cruelly with me, and withall told him, I had made a vow never to put in baile, nor to goe to Law, offered if he would refer it to any indifferent men, I would put him in good ſe<g ref="char:EOLhyphen"/>curity to ſtand to the Award, he told me I ſhould rot in priſon if I would not put in bail. Preſently after I had a friend that came unto me, perſwaded me to put in baile, I told him what a ſerious vow I had made, being a man of Quality went to the Guardian of the Priſon to prevaile with him upon a paroll to be a true priſoner, that I had liberty to go abroad to appear when I ſhould be ſent for, I proſecuted it ſo by friends that I got him the 17. of the ſame month to referre it to M. <hi>Thomas Muſchamp</hi> and M. <hi>John Frith,</hi> when at the Mermaid Taverne after long debating they found ſome monies comming unto me, &amp; did offer what appeared to them, to give me, beſides my charges and loſſe of time, which they would take into conſideration, and that I ſhould have content, I not having my ac<g ref="char:EOLhyphen"/>counts from <hi>Lavillety,</hi> I deſired a little time, they gave as by their a<g ref="char:EOLhyphen"/>ward appears until the 17. of <hi>Jan.</hi> Within 14. dayes I received my account, repaired unto M. <hi>Peacock,</hi> deſired a further meeting before
+<pb n="28" facs="tcp:117175:17"/> the ſaid Arbitratours, he would not upon any entreatyes, but pro<g ref="char:EOLhyphen"/>ſecuted with the greateſt violence that poſſible could be, on Chriſtmas day in the morning went to Sheriffe Foots, under whoſe command I was, deſiring him I might not goe abroad, ſay<g ref="char:EOLhyphen"/>ing his actions upon me was for 1100. l. That I really owed him many hundred pounds (a brave way to pay debts) I went unto the Sheriffe, certified him the truth, whereby I conceived I had gi<g ref="char:EOLhyphen"/>ven him good ſatisfaction, howſoever ſuch was his importunity, that the 6. of <hi>January</hi> I was remanded to Priſon, who contrary to my faithfull promiſe, was forced to put in baile the ſame day, or elſe I muſt have lain and rotted, if that he might have had his deſire. I with much entreaty of friends, and indeed for meer<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame, he was content to have another Reference, but I muſt refer it to M. <hi>Lucas Luce</hi> and himſelfe, I conceived it very hard termes, the harder in that I muſt put in ſecurity in 1500. l. to ſtand to their award, knowing how juſt my cauſe was, yeilded thereto, the 20. of <hi>Jan.</hi> 1645. I was bound and my loving friend M. <hi>Jo: Frith,</hi> we had a meeting who after long debate M. <hi>Luce</hi> told him that it was very unfit that he ſhould be judge in his owne Caſe, howſoever if he would make choice of a third man to be an Umpier, he doub<g ref="char:EOLhyphen"/>ted not but to give him Satisfaction, which <hi>Peacock</hi> utterly denied, would condiſcend to nothing without he might be Ump himſelf, unto which demand there was no reſon to yeild unto, ſo that the arbitration broke off, I was forced to remove his erneſt to the Common place and preſently to put in a bill into the Chancery, which my bill came in againſt <hi>Peacock</hi> and <hi>Rous</hi> in <hi>February,</hi> his anſwer and <hi>Rous</hi> came in 21. <hi>February</hi> 1645. After I had taken out their anſwer being but 79. ſheetes, I looke a great deals of paines in peruſing of it, where I did find ſuch and ſo many manifeſt untruths, that I ſtood amazed; firſt for M. <hi>Peacock</hi> fol. 3. that I ſhewed my willingneſſe to goe the voyage, where he known the contrary, as by the Atteſtation appeares; fol. 5. that it was fully agreed that this defendant ſhould pay unto the complainant 3. l. upon every 100. l. for what he ſhould buy, a moſt falſe untruth, there was never ſuch an agreement made. It is true I did propound, that if the goods were not ſold before came, and if I did not buy them not ſtaying above 5. or 6. dayes, I would be content with 3. <hi>per.</hi> C. for my paines and labour, they
+<pb n="29" facs="tcp:117175:17"/> paying my charges fol. 7. And theſe defendants doe deny that they or either of them, with divers or others did earneſtly or o<g ref="char:EOLhyphen"/>therwayes entraute the complainant to goe for <hi>Oſtend,</hi> whereas by the Teſtimony of diverſe extant to prove it, that <hi>Peacock</hi> did moſt earneſtly begge and entreate of me to goe. I doe paſſe by many ſhall faults fol. 13. and this defendant both deny, that this defendant and the ſaid other perſons nominated, with this defen<g ref="char:EOLhyphen"/>dant in the ſaid Letter of Attorney, did by the ſame writing or o<g ref="char:EOLhyphen"/>therwiſe give unto the complainant any authority to doe accor<g ref="char:EOLhyphen"/>ding to his diſcretion. Caſt your eye upon his Letter of Attorney, and his Petition to the Committee and ſee there if I have not full authority to doe as I ſhall thinke fitting, as if they themſelves were by and preſent, ſee but his Letter unto me of the 4. July. wherein he expreſſeth theſe very words, <hi>I leave the buſineſſe to doe, as you ſhall ſee moſt advantaguous, Fol.</hi> 14. And theſe Defen<g ref="char:EOLhyphen"/>dants ſay, and either of them ſaith, that they doe not beleeve, that before the Complainant arrived at <hi>Oſtend</hi> aforeſaid, upon his voy<g ref="char:EOLhyphen"/>age thither, in the Complainants Bill mentioned moſt part or a<g ref="char:EOLhyphen"/>ny part of the goods in the ſaid Ship were ſold and delivered, or that the ſaid Ship or goods, or any part of them, were at any time judged for Prize by the ſaid Admiralty of Dunkerke or elſe<g ref="char:EOLhyphen"/>where. <hi>Rous</hi> before my arrivall at Oſtend was gone for Lon<g ref="char:EOLhyphen"/>don, and had contracted for his Ship, bought divers goods out of the ſaid Ship from the Captaine, amongſt which a great parcell of Amſterdam Engliſh Bibles. Maſter <hi>Peacock</hi> knowes that moſt of all his goods were ſold before I came thither, there went three over with me about the ſame buſineſſe, two of them joyned with me in the Letter of Attorney, M. <hi>Hudſon,</hi> M. <hi>Robert Jeffery,</hi> who had likewiſe goods in the ſaid Ship, that were ſold before they came. M. <hi>Hudſon</hi> did buy part of his goods at the ſecond hand. for <hi>Rous</hi> and <hi>Peacock</hi> to ſwear that the goods were not adjudged as Prize, they might as well deny that I went to Oſtend by Sea, all one, for no man dare ſell Ship or goods there, untill they have been firſt at Dunkerke, and bring order from thence to the Admi<g ref="char:EOLhyphen"/>ralty there, <hi>Fo.</hi> 18. Nor doe theſe Defendants beleeve, that the Complainant having reſpect to the good of the owners, would give ſo great a price for ſuch goods, when as this Defendant <hi>Iohn Peacock</hi> faith, that he did when the Complainant undertook the
+<pb n="30" facs="tcp:117175:18"/> ſaid voyage, give the Complainant his directions not to give <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then 30. gil. for a Hogſhead of the ſaid Oyle. Doe but look upon his Directions under his owne hand-writing, I muſt leave this to your judgement, whether M. <hi>Peacock</hi> hath liberty to forſwears himſelfe.</p>
+            <p>I have paſſed but to <hi>Fol.</hi> 18. there are 60, more behind, which were it not too tedious, there is not three leaves but apparent un-truths juſtified upon oath, as the receiving of the 300. l. and ma<g ref="char:EOLhyphen"/>ny other ſhamefull things. I will onely inſtance one or two more that <hi>Peacock</hi> ſwore, <hi>Fol.</hi> 19. That I did trade with his money and credit, whereby I enriched my ſelfe. God knowes I never traded with a peny of his money, neither ever had more moneys from <hi>Lavillety,</hi> as for expences and other extraordinary charges, but I will take my oath, and publiſh to the world, that I am even un<g ref="char:EOLhyphen"/>done by him, and am worſe in my eſtate and livelyhood by 500. l. then I was when I undertooke that unfortunate voyage, and all long of him, and his Comrade M.<hi>Peter Thelwell, Fo.</hi> 54. And this Defendant <hi>William Rous</hi> further ſaith, that after the Com<g ref="char:EOLhyphen"/>plainant arrived at <hi>Oſtend</hi> aforeſaid this Defendant did ſee openly in the ſtreet of <hi>Oſtend,</hi> aforeſaid ſix, Fatts of Pot-aſhes of the goods of the ſaid other Defendant <hi>John Peacocke,</hi> which this Defendant did then acquaint the Complainant of, to the end the Complai<g ref="char:EOLhyphen"/>nant might attach or uſe ſome meanes to obtaine the ſame, but the ſaid Complainant did refuſe ſo to doe, or to ſtir any way about the ſame for the regaining thereof. And therefore and for the reaſons aforeſaid in this Defendants Anſwer ſet forth and declared, this Defendant <hi>John Peacock</hi> ſaith, that he did cauſe the ſaid Complai<g ref="char:EOLhyphen"/>nant to be arreſted at this the Defendants ſuit in an Action or Actions for or to this Defendants dammage, and the dammages of other the owners aforeſaid 1100. l. or thereabouts. I beſeech you obſerve now one of the principall cauſes of my Arreſt, that I would not attach nor arreſt theſe Pot-aſhes.</p>
+            <p>Firſt for <hi>Rous,</hi> he knew full well that no goods there were ar<g ref="char:EOLhyphen"/>reſtable, but ſuch as brought order from the Cheife Gover<g ref="char:EOLhyphen"/>nour or Admirallty of <hi>Bruxells,</hi> which he knew I had not, nei<g ref="char:EOLhyphen"/>ther power to releaſe his ſhip, nor any Merchants goods that were arreſted by M. <hi>Thelwell,</hi> at the ſame time he knew there was brought up a Ship ot <hi>Barwicke,</hi> laden with <hi>Salmon</hi> belonging unto
+<pb n="31" facs="tcp:117175:18"/> M. <hi>Watſon,</hi> his man being then there, laboured by all meanes poſ<g ref="char:EOLhyphen"/>ſible, to procure an arreſt to be laid upon the Ship or goods, it could not be done, the goods ſold before his face, and durſt not ſcarce open his mouth, <hi>Rous</hi> being then preſent, to my knowledge this Ship being taken by one Captaine <hi>Hooker,</hi> preſently after another taken by Cap. <hi>Dorſet</hi> comming from the Eaſt Country laden with Pot-aſhes, Hempe, and divers other goods, partly be<g ref="char:EOLhyphen"/>longing unto M. <hi>Amis</hi> and M. <hi>James Plat</hi> dwelling in Leaden-Hall-ſtreet, and M <hi>Patrick Smart</hi> a Scotchman, wh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch two came over with Letters of Commendations, had as good friends, if not better then I, came before the goods were taken out of their Ship, ſaw them ſold before their owne eyes, <hi>Rous</hi> being by and pre<g ref="char:EOLhyphen"/>ſent, could they arreſt or hinder the ſale then, nor durſt once ſpeak, neither could they ſcarce have the priviledge to bid for their goods, but if they would buy them, moſt doe at the ſecond hand without any exceptions. I would faine know of <hi>Rous</hi> and M. <hi>Peacock,</hi> if a Ship and goods were condemned here by the Ad<g ref="char:EOLhyphen"/>miralty, and ſold either by the Commiſſion or by the intereſted to whom they were judged as Prize, who ſhould or dare arreſt thoſe goods in the parties hands that bought them? I proteſt ſe<g ref="char:EOLhyphen"/>riouſly, <hi>Rous</hi> and <hi>Peacock,</hi> have ſworne ſo to the purpoſe in many things to ſuch impoſſibilities, that I am almoſt afraid, that if I ſhould long conteſt with them, they would ſweare me out of my owne name. Before I end with them, I muſt declare unto you what part or intereſt theſe two owners have in this Ship, which coſt but 2600. gil. each of them one ſixteenth part; <hi>Iohn</hi> and <hi>Io<g ref="char:EOLhyphen"/>nathan Gibbs</hi> each a ſixteenth, which is not 16. l. ſterl. for each of their parts, yet ſome of them have vowed to ſpend ten times more then their parts, but to make me fly my Country. After I had taken out this Anſwer, by much perſwaſions of friends I got another Reference, upon condition, that he ſhould chooſe two men, and I one, which was concluded on. We ſealed Bonds with ſecurity, he made choice of M. <hi>Stephen Burton</hi> and M. <hi>Tho<g ref="char:EOLhyphen"/>mas Browne,</hi> two very honeſt men, I had M. <hi>Luce,</hi> any two of them to conclude. M. <hi>Burton</hi> and M. <hi>Browne</hi> met, ſate a great while upon it, M. <hi>Luce</hi> could not meet at that time, I entreated them for Gods ſake to make an end as they ſhould think fitting, gave them the Account, the Copie of which is here ſet downe. They
+<pb n="32" facs="tcp:117175:19"/> did ſomewhat except againſt ſome things there as too much, I re<g ref="char:EOLhyphen"/>ferred ſolely unto them to doe what they pleaſed, ſo I might have an end.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="documents">
+                        <p>
+                           <table>
+                              <head>Maſter <hi>John Peacock</hi> and divers other Debtors unto <hi>John Day</hi> for a miſerable voyage to <hi>Oſtend,</hi> being undertaken by vertue of a Procuration dated the 27 of <hi>June,</hi> 1645. at the earneſt entreaty of thoſe whoſe hands are thereunto ſubſcribed.</head>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">Gilders.</cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                              </row>
+                              <row>
+                                 <cell>For the buying the Ship <hi>Barak</hi> and <hi>Deborah</hi> faith<g ref="char:EOLhyphen"/>fully paid 2600. Gilders, having order to have given as much more.</cell>
+                                 <cell>2600</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For ten Hogſheads of Lin-ſeed oyle for the parti<g ref="char:EOLhyphen"/>cular accompt of Maſter <hi>lohn Peacock,</hi> as his pretended goods.</cell>
+                                 <cell>0470</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For money paid unto <hi>Rous</hi> by <hi>Lavillety,</hi> as by his Accompt.</cell>
+                                 <cell>0530</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For money lent the ſaid <hi>Rous</hi> beſides 50. Gilders, M. <hi>John Freeman</hi> is to pay more for him</cell>
+                                 <cell>0018</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For my expences by M. <hi>Peacocks</hi> expreſſe order, three times going for <hi>Bruxels,</hi> following the Law, much extraordinary expences, thrice going from <hi>London</hi> in 23. weeks.</cell>
+                                 <cell>1970</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For my loſſe of time, and extraordinary paines, be<g ref="char:EOLhyphen"/>ing out 23. weeks, at 20, 8. <hi>per diem.</hi>
+                                 </cell>
+                                 <cell>1610</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For my charges, being arreſted by this <hi>Iohn Peacock</hi> here in <hi>London</hi> upon two Actions of 1100. l. ſterling, whereas he was much in my debt, to my dammage 50. l. ſterling, a great deale more, being almoſt my utter ruine, at 37. s. is</cell>
+                                 <cell>0555</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For Port of Letters from Lond. and other places</cell>
+                                 <cell>0075</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell>7828</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </p>
+                        <pb n="33" facs="tcp:117175:19"/>
+                        <p>
+                           <table>
+                              <head>M. <hi>Iohn Peacock</hi> and Company <hi>per contra Credit'.</hi>
+                              </head>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">Gild.</cell>
+                                 <cell> </cell>
+                                 <cell> </cell>
+                              </row>
+                              <row>
+                                 <cell>For 10. l. received of them at the Antwerp Tavern behind the Exchange according to every mans proportion, as M. <hi>Peacock</hi> gathered 10. l. ſterl. he having received with his owne proportion much more at 37. s. Flemiſh is</cell>
+                                 <cell>0111</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>For 300 l. ſterl. drawn upon M. <hi>Peacock</hi> for to pay for the Ship and his Oyles, he taking every mans ſhare for their parts of the 2600. Gilders, at 37. s. is</cell>
+                                 <cell>3330</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell>3441</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell>Reſting due to me to ballance—</cell>
+                                 <cell>4387</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row>
+                                 <cell> </cell>
+                                 <cell>7828</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>They would not conclude at that time, but referred it to ano<g ref="char:EOLhyphen"/>ther day that M. <hi>Luce</hi> might be with them, did ſo. At that mee<g ref="char:EOLhyphen"/>ting they were all three together, and tooke a great deale of pains, being confident that they would have concluded, but by ſome ac<g ref="char:EOLhyphen"/>cident or words that <hi>Peacock</hi> ſpake, M. <hi>Burton</hi> and M. <hi>Browne</hi> were unwilling to conclude, but agreed we ſhould ſeale new bonds, and that they ſhould be added unto them. M. <hi>Henry Hunt</hi> and <hi>William Garrroway,</hi> M. <hi>Peacock</hi> promiſed to yeild thereto, the next day I came to the Scrivener that M. <hi>Burton</hi> appointed, brought my bond ſealed a new. M. <hi>Peacock</hi> brought his bond, promiſed the like, but referred the time untill the firſt arbitration was out, he then denied to ſeale, ſaying <hi>John and Jonathan Gibbs</hi> and the reſt of his partners would not agree to any Reference, but would go to Law, and never leave me whiles I was worth a groat. I have ſet down all the Partners, by which all the world may judge whether I am not likely to be well rewarded. The firſt of theſe, <hi>Iohn Peacock</hi> one ſixteenth, <hi>William Rous</hi> one ſixteenth, <hi>William Peacock</hi> one ſixteenth, <hi>Peter Sallawins</hi> one ſixteenth, <hi>Pe<g ref="char:EOLhyphen"/>ter Bocles</hi> one ſixteenth, <hi>Mathias Eyres</hi> one ſixteenth, <hi>Iohn Free<g ref="char:EOLhyphen"/>man</hi> one ſixteenth, <hi>Iohn White</hi> one ſixteenth, <hi>Iohn Gibbs</hi> one ſix<g ref="char:EOLhyphen"/>teenth, <hi>Ionathan Gibbs</hi> one ſixteenth, <hi>Daniell Rouſwell</hi> one ſix<g ref="char:EOLhyphen"/>teenth,
+<pb n="34" facs="tcp:117175:20"/> 
+               <hi>Garton</hi> one ſixteenth, <hi>Iohn Drew</hi> one ſixteenth, <hi>Roger Sotherby</hi> one ſixteenth, and one 32. <hi>Edward Davies</hi> one 32. <hi>Auron Powell</hi> one ſixteenth, was ever man Shipt with ſuch a Medley, ſo many Bre<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hren of <hi>Amſterdam</hi> of all ſorts? God of his mercy deliver me out of their hands.</p>
+            <p>Fol. 4. he doth ſet forth, that there was ſome diſcourſe be<g ref="char:EOLhyphen"/>tweene him and me concerning the taking upon me to goe to <hi>Oſtend</hi> for the clearing of the Ship and goods, but doth not ſay, that he gave me any Procuration or Power to doe it, but conclu<g ref="char:EOLhyphen"/>ded that I have not regarded my promiſe, but intending to deceive the ſaid <hi>Iohn Peacock,</hi> nor hath laid out any part of the 300. l. but I have refuſed to doe my endeavours, whereby he is dampnified 600. l. he hath 15. partners beſides himſelf, and hath upon his oath declared that he hath received here in London 1 12.5. Which was for 7/16 and the other 9/14 without all queſtion he hath received, being lately come from <hi>Amſterdam.</hi> By which you may plainely perceive in what a miſery he ſeeks to bring me, for if he is damnified 600. l. for his part; the other 15. partners without all doubt will doe the like, in what a caſe ſhall I be in? This is not all, he hath been in <hi>Flanders,</hi> and hath there given his Procuration unto M. <hi>Peter Thelwell,</hi> by which he hatn Petitioned the Admiralty of <hi>Dunkerke</hi> 15. <hi>May</hi> 1646. By which he deſires the mony in M. <hi>Lavillety</hi> his hands may be brought into the Court, that he is en<g ref="char:EOLhyphen"/>gaged for me, ſo that they ſue me here, makes large demands. <hi>Lavillety</hi> he keepes diverſe goods of mine in his hands, there pre<g ref="char:EOLhyphen"/>tending he doth not know how he may be damnified by reaſon of M.<hi>Thelwell</hi> proceeding. God is my judge, I never received penny of the 300. l. but as any occaſion was for my expences, 1400. Gil. I did cauſe M. <hi>Lavillety</hi> to pay unto Captaine <hi>Fowther</hi> as formerly declared, there is by ballance of my account 4387. Gild comming unto me, and truly I think in modeſty no indifferent man will al<g ref="char:EOLhyphen"/>low me leſſe then what I put to account. For my loſſe of time, and the daily danger I was in, whoſoever would give me the ſame employment, and engage himſelfe for ſeven yeeres to give me more, I take God to witneſſe I would not undertake it. Mi<g ref="char:EOLhyphen"/>ſter <hi>Peacock</hi> hath not only by his fraudulent oppreſſion ſought my ruine, but uſed all meanes, as much as poſſible in him lay, to defame and to make me odious to all the world, as by procu<g ref="char:EOLhyphen"/>ring
+<pb n="35" facs="tcp:117175:20"/> Atteſtations to take away my life, by complying not onely with M.<hi>Thelwell</hi> the Parliaments Agent, but with M. <hi>Hamble<g ref="char:EOLhyphen"/>ton</hi> the Queenes Agent: Whereby there is Atteſtation, as he hath told me, wherein it will be made appeare, that I did there ſpeak ill words againſt the Honourable Parliament. I could willingly wiſh, that any of them were here to juſtifie the words. Nay that is not all, but he did write over, which was publiſhed by <hi>Iohn</hi> and <hi>Ionathan Gibbs,</hi> that I played away a great deale of money at Dice, ſlung handfulls of Piſtols at a time, ſaying, Hang it, let it go, it is Roundheads money.</p>
+            <p>I have lately entreated M. <hi>Peacock</hi> to make an end of our buſi<g ref="char:EOLhyphen"/>neſſe, offering him that I will be contented to refer it to M. <hi>Stephen Burton</hi> or M. <hi>Browne,</hi> that were formerly his good men, or any other honeſt Merchan<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom he pleaſed. He proteſteth unto me, that he hath wrote to his Partners in Amſterdam, ſo ſoone as hee ſhall heare from them he will reſolve. For my part I am reſolved, if by any poſſible meanes, I will not goe to Law with them. I am told, there is now a Committee for Oppreſſion and Extortion, I will fly thither as faſt as I can; if there be none, it is great pity, there was never more need. I am ſure I can hardly write good Engliſh, but will conclude in Latine,</p>
+            <epigraph>
+               <q>Felix, quem faciunt aliena pericula cautum.</q>
+            </epigraph>
+         </div>
+         <div type="postscript">
+            <pb n="36" facs="tcp:117175:21"/>
+            <head>POST-SCRIPT.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>I Have uſed all poſſible endeavours to have my Vindication read before the Honourable Committee, but by reaſon the multiplycity of their great affaires, and their ſeldome ſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting cannot yet be effected, but I am very confident will very ſud<g ref="char:EOLhyphen"/>denly; In the interim I thought good to Paraphraſe upon M. <hi>Peacocks</hi> Remonſtrance, whereby the world may judge of his malicious intent againſt me: firſt concerning the breaking open of Doctor <hi>Walkers</hi> Letter, it was upon this occaſion, comming to <hi>Dover,</hi> and having no Paſport, I went to M. <hi>Ginnaber</hi> the Cl<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rke of the Paſſes to have one as formerly accuſtomed, for I am certaine I had paſſed twenty times in the like manner, but M. <hi>Ginnaber</hi> told me, that there was an Order of Parliament that none muſt paſſe without Order from the Houſes of Parliament or from the Cuſtome houſe of London; I ſtood amazed, the <hi>Packet</hi> boate goe<g ref="char:EOLhyphen"/>ing away that night, I broke up the Worſhipfull <hi>Giles Greene</hi> his Letter in the preſence of the ſaid M. <hi>Ginnaber</hi> and M. <hi>Ratcliffe</hi> being M. <hi>Rookes</hi> his man the ſearcher, howſoever they would not ſuffer me to paſſe: being aboard, the foreſaid <hi>Ratcliffe</hi> commanded me aſhore, and the boate went away; being three houres at Sea, by contrary winds forced back, the next day I went to the Major of <hi>Dover,</hi> told him the occaſion of what concernment it was to divers Merchants, ſhewed him the Letter to Doctor <hi>Walker,</hi> he being a very honeſt Gentleman, and knowing of me well did procure that I had a Paſport and went away that night, the next day we arri<g ref="char:EOLhyphen"/>ved at Oſtend, where I wrote unto Doctor <hi>Walker</hi> the ſame day and ſent his Letter, as by the Date of mine will appeare, if Doctor <hi>Walker</hi> will be pleaſed to produce it, as he hath faithfully promi<g ref="char:EOLhyphen"/>ſed to doe. In <hi>November</hi> laſt, before the Honourable Committee in the preſence of Doctor <hi>Walker</hi> and <hi>Peacock,</hi> I did ſatisfie their honours concerning the breaking open of the Letter, whereas he moſt falſly alleadgeth, that I was to repaire to Doctor <hi>Walker,</hi>
+               <pb n="37" facs="tcp:117175:21"/> and follow his advice, whereas before I went, I declared my ſelfe, that I would not goe to Doctor <hi>Walker,</hi> nor entertaine any ſuites of Law, neither would I ſtay above 5. or 6. dayes as I can juſtifie by many Witneſſes.</p>
+            <p>The ſecond materiall thing that he alleadgeth againſt me, that for the ſpace of three Moneths or thereabouts I continued in a deboiſt and impious manner of drinking and Rioting with the ſaid <hi>Fowther,</hi> and other Pyraticall Commanders and Sea-men at <hi>Oſtend.</hi> Unto which I anſwer, that for the time I was at <hi>Oſtend,</hi> after the firſt foure or five dayes that I had diſpatcht my buſineſſe ſo much as poſſible I could doe, I never after kept the ſaid <hi>Fowther</hi> or any other of that Pyraticall crew company, neither indeed durſt; for it is well knowne to M. <hi>George Blage,</hi> M. <hi>Henry Battin, Julian Wills,</hi> three Maſters of Ships that belonged to the Mer<g ref="char:EOLhyphen"/>chants of <hi>London,</hi> that were at the ſame preſent at <hi>Oſtend</hi> the con<g ref="char:EOLhyphen"/>tinuall danger I was and went in, that I was ſo farre from keeping them company, that I durſt not come where any of them were; nay I durſt not walke in the ſtreets, for I was adviſed by the ſaid Shippers and divers others well effected that they had vowed my death, and ſwore they would cut me in pieces, having way-laid me betweene <hi>Oſtend</hi> and <hi>Pl.</hi> Where I had certainly ended my dayes, and <hi>Peacocks</hi> Commiſſion, but by the ſaid honeſt Shippers timely advice: which being prevented, foure or five of thoſe blood-ſucking fellowes came upon the Market place, aſſaulted me, would have pulled me off from that place, calling of me Parlia<g ref="char:EOLhyphen"/>ment dog, ſwearing moſt fearfully they would be the death of me: and had not thoſe Shippers with divers others well affected been by, and preſently got me out of their handling, certainly they would have murthered me. For my Rioting, I appeale to thoſe Shippers, of whom for the moſt part whilſt I was there I had my dyet aboard their Ships, and ſeldome or never was out of their company, neither did ever keep company with any of the Captaines or Sea-men, if I could any way have prevented it, that were againſt the Parl. I never had any great deſire to ſtay long at <hi>0ſtend,</hi> neither doe I think ſpent in all a month there, but was at <hi>Bruxels</hi> &amp; other places. Whereas <hi>Peacock</hi> further ſetteth forth, that I did publiquely calumniate the Parliament with vile and re<g ref="char:EOLhyphen"/>proachfull language, as by the Atteſtations appeareth; I have
+<pb n="38" facs="tcp:117175:22"/> the Copies of them. Firſt, for <hi>William Humbleton,</hi> he is the Queenes Agent, a mortall enemie to the Parliament, one that lately changed his Religion from a Proteſtant to a Papiſt. He is the onely Treaſurer for the Captaines, and the man that hath di<g ref="char:EOLhyphen"/>ſpoſing of Letters of Mart againſt the Parliament, Ten pounds is his price, and doth ſell them as the Popes Nuntio doth his Par<g ref="char:EOLhyphen"/>dons. I muſt entreat you to take notice, that this Atteſtator is the onely ſharer with M. <hi>Thelwell,</hi> ſo well in the Merchants mo<g ref="char:EOLhyphen"/>ney, as in divers other goods, as will be proved, they were fellow ſervants together to M. <hi>Charles LLoid,</hi> and very much of a condi<g ref="char:EOLhyphen"/>tion; For M. <hi>Thomas Wherry</hi> he is M. <hi>Humbletons</hi> Goſſip, and one that is as a Broker betwixt them if they do not agree upon their di<g ref="char:EOLhyphen"/>viſion. Indeed his Atteſtation is very modeſt, only apt to miſtake, for he ſaith, that I ſhould in generall words ſay, that they were all Rebels and Rogues together. Now he doth in a manner inferre, that I ſhould meane the King and Parliament, whereas in truth if I ſpake any ſuch thing, I meant really M. <hi>Thelwell</hi> and <hi>Humbleton.</hi> There is a Letter likewiſe produced dated the one and twentieth day of <hi>October,</hi> 1645. wrote to M. <hi>Thelwell,</hi> but I have no hand to it, it is wrote by Proxie, that he had the report of <hi>Gills</hi> or <hi>Gillam</hi> that I ſhould ſpeak Traiterous words againſt the Parlia<g ref="char:EOLhyphen"/>ment, and adviſed him that he ſhould preſently write unto the Parliament, but never made knowne nor declared before the 2. of July 1646. There is an Affidavit likewiſe made by one <hi>Sinckler,</hi> but that is not concerning any Traiterous proceedings againſt the Parliament, but of ſome miſdemeanours againſt M. <hi>Peacock,</hi> as ſome words that Doctor <hi>Walker</hi> ſhould tell him, which Doctor <hi>Walker</hi> hath ſince denyed, as likewiſe I might have arreſted <hi>Pea<g ref="char:EOLhyphen"/>cocks</hi> Sop<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-aſhes, he might as well have ſworne I might have brought them home in my pocket, God forgive them. M. <hi>Peacock</hi> further ſaith, and in particular ſome worthy Members of the Honourable Houſe of Commons, as will be proved. I ſhall uſe all poſſible indeavour to preſſe that Honourable Committee, that he may bring forth his proofes. Whereas M. <hi>Peacock</hi> ſaith, that I hindred <hi>Fowther</hi> from being arreſted, which is moſt falſe, that by my company keeping with him, and my foule carriage, did much prejudice to the publique affaires of the State. Concerning my carriage whilſt I was there, and my well-affectedneſſe to the
+<pb n="39" facs="tcp:117175:22"/> State, I appeale unto three Letters wrote unto an Honourable Member of the Houſe of Commons, and one of the Honourable Committee of the Admiralty and Cinque-ports, wherein this my Vindication I truſt will be tryed, the Copie of which Letters I have by me, bearing date the ſecond, ninth, and two and twen<g ref="char:EOLhyphen"/>tieth of October, a Letter written to M. P. <hi>Jones,</hi> M. <hi>Tho: Britewell,</hi> and M. <hi>Samuel Langham,</hi> Common-Councell men of this City; at likewiſe a Letter wrote unto the Worſhipfull Captain <hi>Richard Crainlay</hi> one of the Commiſſioners for the Navy, all which I have Copies of. If it be Treaſon to the State to ſpend his labour, pains, and charges to the uttermoſt of his power to give advice of what paſſed any wayes to the prejudice of the State, to runne divers ha<g ref="char:EOLhyphen"/>zards in being at the charges of ſending well-affected Seamen as Spies to <hi>Newport,</hi> where then lay the Earle of <hi>Antrim,</hi> having two Ships ready to goe to Sea laden with Armes againſt the Par<g ref="char:EOLhyphen"/>liament, giving them directions what they ſhould do, and money to beare their charges, the one of them was <hi>George Blags</hi> man, and the other <hi>James Sinckler,</hi> beſides divers times I went my ſelf, and if this be Treaſon, then I confeſſe I am a Traitor.</p>
+            <p>Thus farre he hath accuſed me Criminally as a Traitor to the State, for which I ſhal moſt humbly crave a faire Tryall, the rather in that it is his humble prayer I may be convented before that Ho<g ref="char:EOLhyphen"/>nourable Committee, but in caſe that their Honours ſhall not have leiſure to examine it, that they would tranſmit it to a Councel of Warre, where I will expect no favour, but the moſt extremity according to my deſerts. M. <hi>Peacock</hi> hath nor onely deſired my exemplary puniſhment, but hath moſt cunningly and maliciouſly, publikely and privately declared upon the Exchange and other places, that I had cheated him of many hundred pounds, and hath endeavoured to alienate thoſe that are my friends, (ſuch that I got my livelyhood by) to be my enemies, averring ſuch untruth unto them, that I think hardly can be paralleld. I will onely in<g ref="char:EOLhyphen"/>ſtance in one or two. The Wor<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Guinne</hi> Company having, notice of my going imployed me to recover or buy ſome goods that they had taken in the ſame Ship, which did. At my comming home they gave me thanks, and 30. l. for a gratuity, yet ſuch hath been the malice of this <hi>Peacock,</hi> that he hath poſſeſſed ſome of them, that M. <hi>L<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>villety</hi> and I ſeek to coz<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n them, and doth labour by
+<pb n="40" facs="tcp:117175:23"/> all meanes, that they ſhould take the Procurations out of my hands, and give one unto M. <hi>Thelwell,</hi> whereby the mony owing by any of us may be put into the Magiſtrates hands. I hope theſe Gentlemen will be wiſer, and deſire the money which is behind may be paid into their owne hands, if that it may be, there ſhall want no furtherance of mine. If M. <hi>Peacock</hi> were not better ex<g ref="char:EOLhyphen"/>perienced in his trade for <hi>Amſterdam</hi> then in the Lawes of <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> concerning depoſiting of moneys, he had never got ſo much money by Raizens as he is now like to doe. I was deſired by M. <hi>George Hadley,</hi> and M. <hi>Samuel Chaplin,</hi> two worthy Gentle<g ref="char:EOLhyphen"/>men, Grocers of <hi>London</hi> who had in the ſaid Ship 500. Peeces of Raizens, to recover or buy them as I ſhould think fit; before I came, they were bought by one <hi>Adram Van Toore</hi> a Merchant of <hi>Oſtend,</hi> of whom afterwards ſo many as were left, I bought, and preſently ſhipt them in <hi>Julian Wills,</hi> drew 200. l. upon them, they paid the money, there was more disburſed by me, yet this M. <hi>Peacock</hi> did labour by all meanes, perſwaded them that I had cozened them, and had not paid any moneys; I was forced to ſend for Atteſtations, Acquittances, and ſo ſatisfied theſe Gentle<g ref="char:EOLhyphen"/>men, that they paid me all the money that I had truly disburſed, but for my labour and paines I could expect none, their loſſe was ſo great, for the Raizens lay 22. weeks a Ship-board for want of a Convoy, that they were not worth a fourth part of what they coſt. If M. <hi>Peacock</hi> could doe theſe Gentlemen that favour, as to prevaile with his friend M. <hi>Thelwell,</hi> that the moneys that he ar<g ref="char:EOLhyphen"/>reſted by vertue of D. <hi>Walkers</hi> Procurations, for the uſe of the Proprietors, in the hands of <hi>Van Toore</hi> may not be embezeled and ſhared, as M. <hi>Lincoberks</hi> Beaver Wool, and M. <hi>Graftons</hi> Braſſe hath lately been, for it belongeth unto them.</p>
+            <p>I will only inſtance one more of his cunning tricks, he perſwa<g ref="char:EOLhyphen"/>ded M. <hi>James Sotherby</hi> to make an Affidavit which I did once ſee, and doe declare that what he ſwore was truth, and was ex<g ref="char:EOLhyphen"/>treamly for M. <hi>Peacocks</hi> turne, for he ſwore, that I was to have 3. l. per. cent. for what goods I bought at <hi>Oſtend,</hi> but did not de<g ref="char:EOLhyphen"/>clare the other conditions, that if the goods were ſold before I came, and that I did not ſtay above 5. or 6. dayes, and I would un<g ref="char:EOLhyphen"/>dertake no Law ſuits upon any termes. Let M. <hi>Sotherby</hi> be plea<g ref="char:EOLhyphen"/>ſed to goe before my Lord Major or any Maſter of Chan<g ref="char:EOLhyphen"/>cery,
+<pb n="41" facs="tcp:117175:23"/> and make Oath, that this I did not ſay before my going over, I will give him what ſatisfaction he ſhall deſire.</p>
+            <p>I will now conclude, wiſhing good ſucceſſe to the endeavours of M. <hi>Thelwell</hi> and M. <hi>Peacock,</hi> ſo that they may extend to the good of the Proprietours, and that they may have better ſucceſſe then many formerly have had. I have knowne thoſe Countryes above theſe twenty yeares, and never yet knew any got by going to Law, if he could make any reaſonable agreement. I will in<g ref="char:EOLhyphen"/>ſtance in one Paſſage, of late M. <hi>Thomas Horth</hi> a Merchant of <hi>Yarmouth</hi> that had a Ship of Oyles taken and carryed to <hi>Dun<g ref="char:EOLhyphen"/>kerke</hi> worth 1500. l. M. <hi>Horth</hi> uſed ſuch dilligence, that he got the Oyles to be ſequeſtred, ſold, and the monies to be depoſited, they were ſold betweene 6. or 7000. gilders, and then to Law he went, after two or three yeares he obtained his ſuit, had Order to receive his money, but the partie in whoſe hands it was, de<g ref="char:EOLhyphen"/>manded 500. gilders for keeping of it; I heard M. <hi>Horth</hi> proteſt that it had been farre better for him, that the Ship at firſt had been ſunke, for it coſt him more in charges and loſſe of time then ever he recovered. I could inſtance in divers other neerer home, but I will not trouble your patience any further, only craving your favourable opinion, that you will not be a partiall Reader, but to weigh what I have here writ in an equall ballance, eſpecially you that are intereſſed, and have lent your aſſiſtance and monies unto M. <hi>Peacock</hi> to be imployed in Law, and have upon his reports alienated your affection from me. Judge charitably and marke the event, I will not, fail you, but what my intelligence can produce any wayes for prevention of prejudice to any of you, be confident I will truly adviſe. I would have none deſpaire, but that you may have your goods, for I aſſure you there is great hopes, and the times have proved very fitting and ſeaſonable to that purpoſe, yet doe not too much preſume, God of his mercy ſend all to the beſt, and to your contents.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
